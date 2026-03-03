@@ -1,0 +1,6136 @@
+{
+  "format": "qt-qm-extract-v1",
+  "meta": {
+    "source_qm": "nox_en.qm",
+    "target_language": "ar",
+    "source_language": "",
+    "message_count": 1107
+  },
+  "messages": [
+    {
+      "id": 1,
+      "context": "AboutDlg",
+      "source": "NoxPlayer",
+      "comment": "",
+      "translation": "NoxPlayer"
+    },
+    {
+      "id": 2,
+      "context": "AimInOutTipWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 3,
+      "context": "AimInOutTipWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 4,
+      "context": "AimInOutTipWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 5,
+      "context": "AimWidget",
+      "source": "Click to enter/exit shooting mode. Please adjust the mouse sensitivity as your needs.",
+      "comment": "",
+      "translation": "לחץ לכניסה/יציאה ממצב ירי"
+    },
+    {
+      "id": 6,
+      "context": "AimWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 7,
+      "context": "AimWidget",
+      "source": "Mouse Sensitivity",
+      "comment": "",
+      "translation": "רגישות עכבר"
+    },
+    {
+      "id": 8,
+      "context": "AimWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 9,
+      "context": "AimWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 10,
+      "context": "AimWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 11,
+      "context": "AimWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 12,
+      "context": "AndroidUpgradeRemindDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 13,
+      "context": "ApkLoadTipDlg",
+      "source": "Do not show again",
+      "comment": "",
+      "translation": "אל תציג שוב"
+    },
+    {
+      "id": 14,
+      "context": "ApkLoadTipDlg",
+      "source": "Form",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 15,
+      "context": "ApkLoadTipDlg",
+      "source": "I know",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 16,
+      "context": "ApkLoadTipDlg",
+      "source": "TipForApk",
+      "comment": "",
+      "translation": "<p style=\\\"line-height:100%\\\">טיפ:<br><br> בנוסף לעיון בקובצי APK מקומיים להתקנה, ניתן גם לגרור ולשחרר את קובץ ה-APK לתוך חלון Nox כדי להתקין אותו. </p>"
+    },
+    {
+      "id": 17,
+      "context": "AppGuideDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 18,
+      "context": "AppInstalledDialog",
+      "source": "@xxx@ installed successfully! Have a good time:)",
+      "comment": "",
+      "translation": "@xxx@ הותקן בהצלחה! תהנה:)"
+    },
+    {
+      "id": 19,
+      "context": "BackupReminderDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 20,
+      "context": "BackupReminderDlg",
+      "source": "Confirm",
+      "comment": "",
+      "translation": "כן"
+    },
+    {
+      "id": 21,
+      "context": "BackupReminderDlg",
+      "source": "Decide later",
+      "comment": "",
+      "translation": "מאוחר יותר"
+    },
+    {
+      "id": 22,
+      "context": "BackupReminderDlg",
+      "source": "Remind later",
+      "comment": "",
+      "translation": "הזכר לי מאוחר יותר"
+    },
+    {
+      "id": 23,
+      "context": "BackupReminderDlg",
+      "source": "Restart now",
+      "comment": "",
+      "translation": "הפעלה מחדש כעת"
+    },
+    {
+      "id": 24,
+      "context": "BackupReminderDlg",
+      "source": "To download",
+      "comment": "",
+      "translation": "להורדה"
+    },
+    {
+      "id": 25,
+      "context": "BatteryForm",
+      "source": "Form",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 26,
+      "context": "CancelEditkeyWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 27,
+      "context": "CancelEditkeyWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 28,
+      "context": "CancelEditkeyWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 29,
+      "context": "CancelEditkeyWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 30,
+      "context": "ComboboxItemCustom",
+      "source": "Copy",
+      "comment": "",
+      "translation": "העתקה"
+    },
+    {
+      "id": 31,
+      "context": "ComboboxItemCustom",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 32,
+      "context": "ComboboxItemCustom",
+      "source": "Edit",
+      "comment": "",
+      "translation": "עריכה"
+    },
+    {
+      "id": 33,
+      "context": "ComboboxItemOfficial",
+      "source": "Copy",
+      "comment": "",
+      "translation": "העתקה"
+    },
+    {
+      "id": 34,
+      "context": "ComboboxItemOfficial",
+      "source": "Restore",
+      "comment": "",
+      "translation": "איפוס"
+    },
+    {
+      "id": 35,
+      "context": "CompressVmdkDlg",
+      "source": "Being canceled",
+      "comment": "",
+      "translation": "מבטל..."
+    },
+    {
+      "id": 36,
+      "context": "CompressVmdkDlg",
+      "source": "Being compressed",
+      "comment": "",
+      "translation": "ניקוי מתבצע. תהליך זה עשוי להימשך מספר דקות. אנא המתן בסבלנות."
+    },
+    {
+      "id": 37,
+      "context": "CompressVmdkDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 38,
+      "context": "ConfigPageModifyDlg",
+      "source": "Confirm",
+      "comment": "",
+      "translation": "כן"
+    },
+    {
+      "id": 39,
+      "context": "ContinuousCheckinDialog",
+      "source": "Daily check-in to receive VIP member rewards!",
+      "comment": "",
+      "translation": "התחברות יומית לקבלת פרסי חבר VIP!"
+    },
+    {
+      "id": 40,
+      "context": "ContinuousCheckinDialog",
+      "source": "Event Rules",
+      "comment": "",
+      "translation": "חוקי האירוע"
+    },
+    {
+      "id": 41,
+      "context": "ContinuousCheckinDialog",
+      "source": "Invalid input, please enter the correct Gmail format.",
+      "comment": "",
+      "translation": "קלט לא חוקי, אנא הזן פורמט Gmail תקין."
+    },
+    {
+      "id": 42,
+      "context": "ContinuousCheckinDialog",
+      "source": "Please enter your Gmail account",
+      "comment": "",
+      "translation": "אנא הזן את חשבון ה-Gmail שלך"
+    },
+    {
+      "id": 43,
+      "context": "ContinuousCheckinDialog",
+      "source": "Receive",
+      "comment": "",
+      "translation": "קבל"
+    },
+    {
+      "id": 44,
+      "context": "ContinuousCheckinDialog",
+      "source": "Receive Rewards",
+      "comment": "",
+      "translation": "קבל פרסים"
+    },
+    {
+      "id": 45,
+      "context": "ContinuousCheckinDialog",
+      "source": "Receive the Remove Ads Reward.",
+      "comment": "",
+      "translation": "קבל את פרס הסרת הפרסומות."
+    },
+    {
+      "id": 46,
+      "context": "ContinuousCheckinDialog",
+      "source": "You have checked in for %1 day(s)!",
+      "comment": "",
+      "translation": "התחברת במשך %1 ימים!"
+    },
+    {
+      "id": 47,
+      "context": "ContinuousCheckinDialog",
+      "source": "You will get the rewards %1 days later!",
+      "comment": "",
+      "translation": "תקבל את הפרסים בעוד %1 ימים!"
+    },
+    {
+      "id": 48,
+      "context": "ContinuousCheckinGuideDialog",
+      "source": "Daily check-in to receive VIP member rewards!",
+      "comment": "",
+      "translation": "התחברות יומית לקבלת פרסי חבר VIP!"
+    },
+    {
+      "id": 49,
+      "context": "ContinuousCheckinGuideDialog",
+      "source": "Got it",
+      "comment": "",
+      "translation": "הבנתי"
+    },
+    {
+      "id": 50,
+      "context": "ContinuousCheckinRewardReceivePopup",
+      "source": "Failed to receive, please check your network connection.",
+      "comment": "",
+      "translation": "הקבלה נכשלה, אנא בדוק את חיבור הרשת שלך."
+    },
+    {
+      "id": 51,
+      "context": "ContinuousCheckinRewardReceivePopup",
+      "source": "Receive successfully!",
+      "comment": "",
+      "translation": "התקבל בהצלחה!"
+    },
+    {
+      "id": 52,
+      "context": "ContinuousCheckinTimeline",
+      "source": "Get a five-day Remove Ads Reward!",
+      "comment": "",
+      "translation": "קבל פרס הסרת פרסומות לחמישה ימים!"
+    },
+    {
+      "id": 53,
+      "context": "ContinuousCheckinTimeline",
+      "source": "Get a one-day Remove Ads Reward!",
+      "comment": "",
+      "translation": "קבל פרס הסרת פרסומות ליום אחד!"
+    },
+    {
+      "id": 54,
+      "context": "CreateAppShortcutsGuideWidget",
+      "source": "Got it",
+      "comment": "",
+      "translation": "הבנתי"
+    },
+    {
+      "id": 55,
+      "context": "DirectionWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 56,
+      "context": "DirectionWidget",
+      "source": "Drag to the direction control area and adjust key size",
+      "comment": "",
+      "translation": "גרור לאזור בקרת הכיוון והתאם את גודל המקש"
+    },
+    {
+      "id": 57,
+      "context": "DirectionWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 58,
+      "context": "DirectionWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 59,
+      "context": "DoubleFingersController",
+      "source": "double fingers translation",
+      "comment": "",
+      "translation": "הזזה בשתי אצבעות"
+    },
+    {
+      "id": 60,
+      "context": "DoubleFingersController",
+      "source": "double fingers zoom in / zoom out",
+      "comment": "",
+      "translation": "צביטה בשתי אצבעות (זום)"
+    },
+    {
+      "id": 61,
+      "context": "EditKeyWidget",
+      "source": "Click to edit",
+      "comment": "",
+      "translation": "לחץ לעריכה"
+    },
+    {
+      "id": 62,
+      "context": "EditKeyWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 63,
+      "context": "EditKeyWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 64,
+      "context": "EditKeyWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 65,
+      "context": "EditKeyWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 66,
+      "context": "EditKeyWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 67,
+      "context": "EditKeyWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 68,
+      "context": "EditKeyWidget",
+      "source": "Set a key",
+      "comment": "",
+      "translation": "הגדר מקש"
+    },
+    {
+      "id": 69,
+      "context": "FEditKeySetDialog",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 70,
+      "context": "FEditKeySetDialog",
+      "source": "Open",
+      "comment": "",
+      "translation": "פתח"
+    },
+    {
+      "id": 71,
+      "context": "FEditKeyWidget",
+      "source": "please input a key",
+      "comment": "",
+      "translation": "אנא הזן מקש"
+    },
+    {
+      "id": 72,
+      "context": "FeedbackDialog",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 73,
+      "context": "FeedbackDialog",
+      "source": "Report a problem",
+      "comment": "",
+      "translation": "משוב"
+    },
+    {
+      "id": 74,
+      "context": "FireWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 75,
+      "context": "FireWidget",
+      "source": "Fire a weapon with left click in shooting mode",
+      "comment": "",
+      "translation": "ירה בנשק עם קליק שמאלי במצב ירי"
+    },
+    {
+      "id": 76,
+      "context": "GPSSetWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 77,
+      "context": "GPSWidget",
+      "source": "Decrease movement speed",
+      "comment": "",
+      "translation": "הפחת את מהירות התנועה"
+    },
+    {
+      "id": 78,
+      "context": "GPSWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 79,
+      "context": "GPSWidget",
+      "source": "Form",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 80,
+      "context": "GPSWidget",
+      "source": "Increase movement speed",
+      "comment": "",
+      "translation": "הגדל את מהירות התנועה"
+    },
+    {
+      "id": 81,
+      "context": "GPSWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 82,
+      "context": "GPSWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 83,
+      "context": "GPSWidget",
+      "source": "Simulate moving direction",
+      "comment": "",
+      "translation": "הדמה כיוון תנועה"
+    },
+    {
+      "id": 84,
+      "context": "GameConfPushDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 85,
+      "context": "GameConfPushManager",
+      "source": "Brand",
+      "comment": "",
+      "translation": "מותג טלפון נייד"
+    },
+    {
+      "id": 86,
+      "context": "GameConfPushManager",
+      "source": "Close",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 87,
+      "context": "GameConfPushManager",
+      "source": "Manufacturer",
+      "comment": "",
+      "translation": "יצרן טלפון נייד"
+    },
+    {
+      "id": 88,
+      "context": "GameConfPushManager",
+      "source": "Model",
+      "comment": "",
+      "translation": "דגם טלפון נייד"
+    },
+    {
+      "id": 89,
+      "context": "GameConfPushManager",
+      "source": "Open",
+      "comment": "",
+      "translation": "פתח"
+    },
+    {
+      "id": 90,
+      "context": "GameConfPushManager",
+      "source": "RAM",
+      "comment": "",
+      "translation": "זיכרון"
+    },
+    {
+      "id": 91,
+      "context": "GameConfPushManager",
+      "source": "Resolution",
+      "comment": "",
+      "translation": "רזולוציה"
+    },
+    {
+      "id": 92,
+      "context": "GameConfPushManager",
+      "source": "core",
+      "comment": "",
+      "translation": "ליבה"
+    },
+    {
+      "id": 93,
+      "context": "GameConfPushManager",
+      "source": "default model",
+      "comment": "",
+      "translation": "דגם ברירת מחדל"
+    },
+    {
+      "id": 94,
+      "context": "GameGuideDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 95,
+      "context": "GameSetDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 96,
+      "context": "GameSetDlg",
+      "source": "Decide later",
+      "comment": "",
+      "translation": "מאוחר יותר"
+    },
+    {
+      "id": 97,
+      "context": "GameSetDlg",
+      "source": "Default option for definition, suitable for a low-end PC",
+      "comment": "",
+      "translation": "אפשרות רזולוציית משחק ברירת מחדל, למחשבים בעלי מפרט נמוך"
+    },
+    {
+      "id": 98,
+      "context": "GameSetDlg",
+      "source": "Definition",
+      "comment": "",
+      "translation": "רזולוציית משחק"
+    },
+    {
+      "id": 99,
+      "context": "GameSetDlg",
+      "source": "Do not prompt again",
+      "comment": "",
+      "translation": "אל תשאל שוב"
+    },
+    {
+      "id": 100,
+      "context": "GameSetDlg",
+      "source": "Extreme + HDR",
+      "comment": "",
+      "translation": "Extreme+HDR"
+    },
+    {
+      "id": 101,
+      "context": "GameSetDlg",
+      "source": "Game settings",
+      "comment": "",
+      "translation": "הגדרות משחק"
+    },
+    {
+      "id": 102,
+      "context": "GameSetDlg",
+      "source": "HD 1080P",
+      "comment": "",
+      "translation": "HD 1080P"
+    },
+    {
+      "id": 103,
+      "context": "GameSetDlg",
+      "source": "More Tutorials for PUBG Mobile",
+      "comment": "",
+      "translation": " מדריכים נוספים ל-PUBG Mobile"
+    },
+    {
+      "id": 104,
+      "context": "GameSetDlg",
+      "source": "Restart now",
+      "comment": "",
+      "translation": "הפעלה מחדש כעת"
+    },
+    {
+      "id": 105,
+      "context": "GameSetDlg",
+      "source": "SD 720P",
+      "comment": "",
+      "translation": "SD 720P"
+    },
+    {
+      "id": 106,
+      "context": "GameSetDlg",
+      "source": "Save",
+      "comment": "",
+      "translation": "שמירה"
+    },
+    {
+      "id": 107,
+      "context": "GameSetDlg",
+      "source": "UHD 2K",
+      "comment": "",
+      "translation": "UHD 2K"
+    },
+    {
+      "id": 108,
+      "context": "GamepadBindView",
+      "source": "Click on the blank position of the screen to increase the key position",
+      "comment": "",
+      "translation": "לחץ להגדרת מקש"
+    },
+    {
+      "id": 109,
+      "context": "GamepadBindView",
+      "source": "Fail to get app name, unable to save",
+      "comment": "",
+      "translation": "לא ניתן להשיג את שם האפליקציה, השמירה נכשלה"
+    },
+    {
+      "id": 110,
+      "context": "GamepadBindView",
+      "source": "OK",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 111,
+      "context": "GamepadCancelEditkeyWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 112,
+      "context": "GamepadCancelEditkeyWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 113,
+      "context": "GamepadCancelEditkeyWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 114,
+      "context": "GamepadCancelEditkeyWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 115,
+      "context": "GamepadChangeDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 116,
+      "context": "GamepadEditWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 117,
+      "context": "GamepadEditWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 118,
+      "context": "GamepadEditWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 119,
+      "context": "GamepadEditWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 120,
+      "context": "GamepadEditWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 121,
+      "context": "GamepadEditWidget",
+      "source": "Tap a key to perform single click",
+      "comment": "",
+      "translation": "הקש על מקש כדי לבצע לחיצה בודדת"
+    },
+    {
+      "id": 122,
+      "context": "GamepadElementContainer",
+      "source": "Opacity Setting!",
+      "comment": "",
+      "translation": "הגדרת שקיxxx"
+    },
+    {
+      "id": 123,
+      "context": "GamepadElementContainer",
+      "source": "Shooting game: drag the button to sight",
+      "comment": "",
+      "translation": "למשחקי יריות בלבד: גרור כפתור לכוונת"
+    },
+    {
+      "id": 124,
+      "context": "GamepadGuideWidget",
+      "source": "Got it",
+      "comment": "",
+      "translation": "הבנתי"
+    },
+    {
+      "id": 125,
+      "context": "GamepadLeftJoystickWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 126,
+      "context": "GamepadLeftJoystickWidget",
+      "source": "Drag to the direction control area and adjust size",
+      "comment": "",
+      "translation": "גרור לאזור בקרת הכיוון והתאם את הגודל"
+    },
+    {
+      "id": 127,
+      "context": "GamepadLeftJoystickWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 128,
+      "context": "GamepadMacroWidget",
+      "source": "Click to edit",
+      "comment": "",
+      "translation": "לחץ לעריכה"
+    },
+    {
+      "id": 129,
+      "context": "GamepadMacroWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 130,
+      "context": "GamepadMacroWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 131,
+      "context": "GamepadMacroWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 132,
+      "context": "GamepadMacroWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 133,
+      "context": "GamepadMacroWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 134,
+      "context": "GamepadMouseWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 135,
+      "context": "GamepadMouseWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 136,
+      "context": "GamepadMouseWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 137,
+      "context": "GamepadMouseWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 138,
+      "context": "GamepadMultipleStrikeWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 139,
+      "context": "GamepadMultipleStrikeWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 140,
+      "context": "GamepadMultipleStrikeWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 141,
+      "context": "GamepadMultipleStrikeWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 142,
+      "context": "GamepadMultipleStrikeWidget",
+      "source": "Perform multistrike by one click/long press to perform multistrike",
+      "comment": "",
+      "translation": "בצע תקיפה מרובה בלחיצה אחת/לחיצה ארוכה לביצוע תקיפה מרובה"
+    },
+    {
+      "id": 143,
+      "context": "GamepadMultipleStrikeWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 144,
+      "context": "GamepadMultipleStrikeWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 145,
+      "context": "GamepadQuickKeyWidget",
+      "source": "Click to edit",
+      "comment": "",
+      "translation": "לחץ לעריכה"
+    },
+    {
+      "id": 146,
+      "context": "GamepadQuickKeyWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 147,
+      "context": "GamepadQuickKeyWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 148,
+      "context": "GamepadQuickKeyWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 149,
+      "context": "GamepadQuickKeyWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 150,
+      "context": "GamepadQuickKeyWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 151,
+      "context": "GamepadQuickKeyWidget",
+      "source": "Set a key",
+      "comment": "",
+      "translation": "הגדר מקש"
+    },
+    {
+      "id": 152,
+      "context": "GamepadQuickKeyWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 153,
+      "context": "GamepadRightJoystickWidget",
+      "source": "Control the view of the character",
+      "comment": "",
+      "translation": "שלוט בזווית הראייה של הדמות"
+    },
+    {
+      "id": 154,
+      "context": "GamepadRightJoystickWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 155,
+      "context": "GamepadRightJoystickWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 156,
+      "context": "GamepadRightJoystickWidget",
+      "source": "Mouse Sensitivity",
+      "comment": "",
+      "translation": "רגישות עכבר"
+    },
+    {
+      "id": 157,
+      "context": "GamepadRunEditkeyWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 158,
+      "context": "GamepadRunEditkeyWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 159,
+      "context": "GamepadRunEditkeyWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 160,
+      "context": "GamepadRunEditkeyWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 161,
+      "context": "GamepadSlideEditKeyWidget",
+      "source": "Adjust the casting range to match the skill range",
+      "comment": "",
+      "translation": "התאם את טווח ההטלה לטווח המיומנות"
+    },
+    {
+      "id": 162,
+      "context": "GamepadSlideEditKeyWidget",
+      "source": "Click the button to cast a skill through the right stick",
+      "comment": "",
+      "translation": "לחץ על המקש כדי להטיל מיומנות לכיוון סמן העכבר"
+    },
+    {
+      "id": 163,
+      "context": "GamepadSlideEditKeyWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 164,
+      "context": "GamepadSlideEditKeyWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 165,
+      "context": "GamepadSlideEditKeyWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 166,
+      "context": "GamepadSlideEditKeyWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 167,
+      "context": "GamepadSlideEditKeyWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 168,
+      "context": "GamepadSlideEditKeyWidget",
+      "source": "Set a key",
+      "comment": "",
+      "translation": "הגדר מקש"
+    },
+    {
+      "id": 169,
+      "context": "GamepadSlideEditKeyWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 170,
+      "context": "GamepadSliderMoveWidget",
+      "source": "Click to edit",
+      "comment": "",
+      "translation": "לחץ לעריכה"
+    },
+    {
+      "id": 171,
+      "context": "GamepadSliderMoveWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 172,
+      "context": "GamepadSliderMoveWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 173,
+      "context": "GamepadSliderMoveWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 174,
+      "context": "GamepadSliderMoveWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 175,
+      "context": "GamepadSliderMoveWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 176,
+      "context": "GamepadSliderMoveWidget",
+      "source": "Set a key",
+      "comment": "",
+      "translation": "הגדר מקש"
+    },
+    {
+      "id": 177,
+      "context": "GamepadSliderMoveWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 178,
+      "context": "GamepadToolDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 179,
+      "context": "GamepadToolDlg",
+      "source": "Controller",
+      "comment": "",
+      "translation": "בקר משחק"
+    },
+    {
+      "id": 180,
+      "context": "GamepadToolDlg",
+      "source": "Keyboard",
+      "comment": "",
+      "translation": "מקלדת"
+    },
+    {
+      "id": 181,
+      "context": "GamepadToolDlg",
+      "source": "Save",
+      "comment": "",
+      "translation": "שמירה"
+    },
+    {
+      "id": 182,
+      "context": "GamepadVisualAngleShootWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 183,
+      "context": "GamepadVisualAngleShootWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 184,
+      "context": "GamepadVisualAngleShootWidget",
+      "source": "Mouse Sensitivity",
+      "comment": "",
+      "translation": "רגישות עכבר"
+    },
+    {
+      "id": 185,
+      "context": "GamepadVisualAngleShootWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 186,
+      "context": "GamepadVisualAngleShootWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 187,
+      "context": "GamepadVisualAngleShootWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 188,
+      "context": "GamepadVisualAngleShootWidget",
+      "source": "View control in 3D game, such as Honkai Impact 3",
+      "comment": "",
+      "translation": "סיבוב זוויות ראייה"
+    },
+    {
+      "id": 189,
+      "context": "GamepadZoomWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 190,
+      "context": "GamepadZoomWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 191,
+      "context": "GamepadZoomWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 192,
+      "context": "GamepadZoomWidget",
+      "source": "Zoom in/Zoom out",
+      "comment": "",
+      "translation": "התקרב/התרחק"
+    },
+    {
+      "id": 193,
+      "context": "GpsDialog",
+      "source": "Dialog",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 194,
+      "context": "GpsDialog",
+      "source": "方位",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 195,
+      "context": "GpsDialog",
+      "source": "是否开启GPS模拟",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 196,
+      "context": "GpsDialog",
+      "source": "确定",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 197,
+      "context": "GpsDialog",
+      "source": "精度",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 198,
+      "context": "GpsDialog",
+      "source": "纬度",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 199,
+      "context": "GpsDialog",
+      "source": "经度",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 200,
+      "context": "GpsDialog",
+      "source": "高度",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 201,
+      "context": "GpsSetDlg",
+      "source": "Are you sure to delete this position:",
+      "comment": "",
+      "translation": "האם אתה בטוח שברצונך למחוק את המיקום הזה?"
+    },
+    {
+      "id": 202,
+      "context": "GpsSetDlg",
+      "source": "Baidu Map",
+      "comment": "",
+      "translation": "מפות Baidu"
+    },
+    {
+      "id": 203,
+      "context": "GpsSetDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 204,
+      "context": "GpsSetDlg",
+      "source": "Confirm",
+      "comment": "",
+      "translation": "כן"
+    },
+    {
+      "id": 205,
+      "context": "GpsSetDlg",
+      "source": "CurPosition:",
+      "comment": "",
+      "translation": "מיקום נוכחי:"
+    },
+    {
+      "id": 206,
+      "context": "GpsSetDlg",
+      "source": "Google Map",
+      "comment": "",
+      "translation": "מפות Google"
+    },
+    {
+      "id": 207,
+      "context": "GpsSetDlg",
+      "source": "Location",
+      "comment": "",
+      "translation": "עבר לכאן"
+    },
+    {
+      "id": 208,
+      "context": "GpsSetDlg",
+      "source": "Location Settings",
+      "comment": "",
+      "translation": "הגדרות מיקום"
+    },
+    {
+      "id": 209,
+      "context": "GpsSetDlg",
+      "source": "Ok",
+      "comment": "",
+      "translation": "כן"
+    },
+    {
+      "id": 210,
+      "context": "GpsSetDlg",
+      "source": "The position has been collection!",
+      "comment": "",
+      "translation": "מיקום זה נוסף למועדפים!"
+    },
+    {
+      "id": 211,
+      "context": "GpsSetDlg",
+      "source": "Whether to collect this position?",
+      "comment": "",
+      "translation": "האם אתה בטוח שברצונך להוסיף את המיקום הזה למועדפים?"
+    },
+    {
+      "id": 212,
+      "context": "GpsSetDlg",
+      "source": "lat:",
+      "comment": "",
+      "translation": "קו רוחב"
+    },
+    {
+      "id": 213,
+      "context": "GpsSetDlg",
+      "source": "latitude: ",
+      "comment": "",
+      "translation": "קו רוחב:"
+    },
+    {
+      "id": 214,
+      "context": "GpsSetDlg",
+      "source": "lng:",
+      "comment": "",
+      "translation": "קו אורך"
+    },
+    {
+      "id": 215,
+      "context": "GpsSetDlg",
+      "source": "located",
+      "comment": "",
+      "translation": "אתה כאן"
+    },
+    {
+      "id": 216,
+      "context": "GpsSetDlg",
+      "source": "longitud: ",
+      "comment": "",
+      "translation": "קו אורך:"
+    },
+    {
+      "id": 217,
+      "context": "GravityWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 218,
+      "context": "GravityWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 219,
+      "context": "GravityWidget",
+      "source": "Simulate gravity sensor",
+      "comment": "",
+      "translation": "הדמה חיישן כבידה"
+    },
+    {
+      "id": 220,
+      "context": "HeroWidget",
+      "source": "Copy",
+      "comment": "",
+      "translation": "העתקה"
+    },
+    {
+      "id": 221,
+      "context": "KeyBindTipDlg",
+      "source": "Dialog",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 222,
+      "context": "KeyBindTipDlg",
+      "source": "OK",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 223,
+      "context": "KeyBindTipDlg",
+      "source": "Operating by keyboard and mouse instead of finger touching, each application owns a separate set of Settings, complicated operations are supported.",
+      "comment": "",
+      "translation": "השתמש בעכבר כדי לדמות את תנועת האצבעות שלך והזן את מקשי הקיצור המתאימים. ניתן להגדיר קבוצת מקשי קיצור אחת לכל אפליקציה. תומך בפעולות מורכבות כגון לחיצה והחלקה."
+    },
+    {
+      "id": 224,
+      "context": "KeyBindTipDlg",
+      "source": "do not show again",
+      "comment": "",
+      "translation": "אל תציג שוב"
+    },
+    {
+      "id": 225,
+      "context": "KeyBindTipDlg",
+      "source": "tip for keyboard control:",
+      "comment": "",
+      "translation": "טיפ לבקרת מקלדת:"
+    },
+    {
+      "id": 226,
+      "context": "KeyBoadBindView",
+      "source": "Application will override the current recommended control way, whether to continue?",
+      "comment": "",
+      "translation": "החלת הגדרות בקרת המקלדת המומלצות תמחק את כל ההגדרות הנוכחיות שלך. האם אתה בטוח שברצונך להמשיך?"
+    },
+    {
+      "id": 227,
+      "context": "KeyBoadBindView",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 228,
+      "context": "KeyBoadBindView",
+      "source": "Click on the blank position of the screen to increase the key position",
+      "comment": "",
+      "translation": "לחץ להגדרת מקש"
+    },
+    {
+      "id": 229,
+      "context": "KeyBoadBindView",
+      "source": "Edit",
+      "comment": "",
+      "translation": "עריכה"
+    },
+    {
+      "id": 230,
+      "context": "KeyBoadBindView",
+      "source": "Fail to get app name, unable to save",
+      "comment": "",
+      "translation": "לא ניתן להשיג את שם האפליקציה, השמירה נכשלה"
+    },
+    {
+      "id": 231,
+      "context": "KeyBoadBindView",
+      "source": "Has been recommended for you to configure keyboard control way.",
+      "comment": "",
+      "translation": "הגדרות בקרת המקלדת המומלצות הוגדרו."
+    },
+    {
+      "id": 232,
+      "context": "KeyBoadBindView",
+      "source": "OK",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 233,
+      "context": "KeyBoadBindView",
+      "source": "Save",
+      "comment": "",
+      "translation": "שמירה"
+    },
+    {
+      "id": 234,
+      "context": "KeyBoardToolDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 235,
+      "context": "KeyBoardToolDlg",
+      "source": "Controller",
+      "comment": "",
+      "translation": "בקר משחק"
+    },
+    {
+      "id": 236,
+      "context": "KeyBoardToolDlg",
+      "source": "Controller Mapping",
+      "comment": "",
+      "translation": "מיפוי בקר משחק"
+    },
+    {
+      "id": 237,
+      "context": "KeyBoardToolDlg",
+      "source": "Key Mapping Switch",
+      "comment": "",
+      "translation": "מתג מיפוי מקשים"
+    },
+    {
+      "id": 238,
+      "context": "KeyBoardToolDlg",
+      "source": "Key conflicts",
+      "comment": "",
+      "translation": "התנגשות מקשים"
+    },
+    {
+      "id": 239,
+      "context": "KeyBoardToolDlg",
+      "source": "Key description off",
+      "comment": "",
+      "translation": "תיאור מקשים כבוי"
+    },
+    {
+      "id": 240,
+      "context": "KeyBoardToolDlg",
+      "source": "Key description on",
+      "comment": "",
+      "translation": "תיאור מקשים מופעל"
+    },
+    {
+      "id": 241,
+      "context": "KeyBoardToolDlg",
+      "source": "Key mapping off",
+      "comment": "",
+      "translation": "מיפוי מקשים כבוי"
+    },
+    {
+      "id": 242,
+      "context": "KeyBoardToolDlg",
+      "source": "Key mapping on",
+      "comment": "",
+      "translation": "מיפוי מקשים מופעל"
+    },
+    {
+      "id": 243,
+      "context": "KeyBoardToolDlg",
+      "source": "Keyboard",
+      "comment": "",
+      "translation": "מקלדת"
+    },
+    {
+      "id": 244,
+      "context": "KeyBoardToolDlg",
+      "source": "Keyboard Mapping",
+      "comment": "",
+      "translation": "מיפוי מקלדת"
+    },
+    {
+      "id": 245,
+      "context": "KeyBoardToolDlg",
+      "source": "Opacity",
+      "comment": "",
+      "translation": "הגדרת שקיפות"
+    },
+    {
+      "id": 246,
+      "context": "KeyBoardToolDlg",
+      "source": "Open configuration file location",
+      "comment": "",
+      "translation": "פתח את מיקום קובץ התצורה"
+    },
+    {
+      "id": 247,
+      "context": "KeyBoardToolDlg",
+      "source": "Restore",
+      "comment": "",
+      "translation": "שחזר"
+    },
+    {
+      "id": 248,
+      "context": "KeyBoardToolDlg",
+      "source": "Save",
+      "comment": "",
+      "translation": "שמירה"
+    },
+    {
+      "id": 249,
+      "context": "KeyBoardToolDlg",
+      "source": "tools",
+      "comment": "",
+      "translation": "בשימוש בתדירות הגבוהה ביותר"
+    },
+    {
+      "id": 250,
+      "context": "KeyControlEdit",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 251,
+      "context": "KeyControlEdit",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 252,
+      "context": "KeyControlEdit",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 253,
+      "context": "KeyControlEdit",
+      "source": "Scroll wheel",
+      "comment": "",
+      "translation": "גלגלת עכבר"
+    },
+    {
+      "id": 254,
+      "context": "KeyControlTipWidget",
+      "source": "Close",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 255,
+      "context": "KeyDesLabel",
+      "source": "Dialog",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 256,
+      "context": "KeysDescriptionDlg",
+      "source": "Close",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 257,
+      "context": "KeysDescriptionDlg",
+      "source": "Configuration",
+      "comment": "",
+      "translation": "תצורה"
+    },
+    {
+      "id": 258,
+      "context": "KeysDescriptionDlg",
+      "source": "Current configuration",
+      "comment": "",
+      "translation": "תצורה נוכחית"
+    },
+    {
+      "id": 259,
+      "context": "KeysDescriptionDlg",
+      "source": "Extreme + HDR",
+      "comment": "",
+      "translation": "Extreme+HDR"
+    },
+    {
+      "id": 260,
+      "context": "KeysDescriptionDlg",
+      "source": "F11 Open/close button prompt",
+      "comment": "",
+      "translation": "F11 Open/close button prompt"
+    },
+    {
+      "id": 261,
+      "context": "KeysDescriptionDlg",
+      "source": "Game settings",
+      "comment": "",
+      "translation": "הגדרות משחק"
+    },
+    {
+      "id": 262,
+      "context": "KeysDescriptionDlg",
+      "source": "HD 1080P",
+      "comment": "",
+      "translation": "HD 1080P"
+    },
+    {
+      "id": 263,
+      "context": "KeysDescriptionDlg",
+      "source": "Modify",
+      "comment": "",
+      "translation": "שנה"
+    },
+    {
+      "id": 264,
+      "context": "KeysDescriptionDlg",
+      "source": "Open",
+      "comment": "",
+      "translation": "פתח"
+    },
+    {
+      "id": 265,
+      "context": "KeysDescriptionDlg",
+      "source": "Resolution",
+      "comment": "",
+      "translation": "רזולוציה"
+    },
+    {
+      "id": 266,
+      "context": "KeysDescriptionDlg",
+      "source": "SD 720P",
+      "comment": "",
+      "translation": "SD 720P"
+    },
+    {
+      "id": 267,
+      "context": "KeysDescriptionDlg",
+      "source": "UHD 2K",
+      "comment": "",
+      "translation": "UHD 2K"
+    },
+    {
+      "id": 268,
+      "context": "LoadingPage",
+      "source": "Available Memory",
+      "comment": "",
+      "translation": "זיכרון פנוי"
+    },
+    {
+      "id": 269,
+      "context": "LoadingPage",
+      "source": "CPU",
+      "comment": "",
+      "translation": "CPU"
+    },
+    {
+      "id": 270,
+      "context": "LoadingPage",
+      "source": "CPU VT",
+      "comment": "",
+      "translation": "CPU VT"
+    },
+    {
+      "id": 271,
+      "context": "LoadingPage",
+      "source": "Dialog",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 272,
+      "context": "LoadingPage",
+      "source": "Discrete Graphics",
+      "comment": "",
+      "translation": "כרטיס מסך ייעודי"
+    },
+    {
+      "id": 273,
+      "context": "LoadingPage",
+      "source": "Nox Version",
+      "comment": "",
+      "translation": "גרסת Nox"
+    },
+    {
+      "id": 274,
+      "context": "LoadingPage",
+      "source": "OS Version",
+      "comment": "",
+      "translation": "גרסת מערכת"
+    },
+    {
+      "id": 275,
+      "context": "LoadingPage",
+      "source": "OpenGL Renderer",
+      "comment": "",
+      "translation": "רינדור OpenGL"
+    },
+    {
+      "id": 276,
+      "context": "LoadingPage",
+      "source": "OpenGL Version",
+      "comment": "",
+      "translation": "גרסת OpenGL"
+    },
+    {
+      "id": 277,
+      "context": "LoadingPage",
+      "source": "Rendering Mode",
+      "comment": "",
+      "translation": "מצב רינדור"
+    },
+    {
+      "id": 278,
+      "context": "LoadingPage",
+      "source": "Report a problem",
+      "comment": "",
+      "translation": "משוב"
+    },
+    {
+      "id": 279,
+      "context": "LoadingPage",
+      "source": "TextLabel",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 280,
+      "context": "LoadingPage",
+      "source": "Total Memory",
+      "comment": "",
+      "translation": "סך הזיכרון"
+    },
+    {
+      "id": 281,
+      "context": "LoadingPage",
+      "source": "Video Card",
+      "comment": "",
+      "translation": "כרטיס מסך"
+    },
+    {
+      "id": 282,
+      "context": "LoadingPage",
+      "source": "about:blank",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 283,
+      "context": "MacroSetToolDlg",
+      "source": "Back",
+      "comment": "",
+      "translation": "חזור"
+    },
+    {
+      "id": 284,
+      "context": "MacroSetToolDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 285,
+      "context": "MacroSetToolDlg",
+      "source": "Click to obtain the X and Y coordinates.",
+      "comment": "",
+      "translation": "לחץ בכל מקום על מסך Nox כדי לקבל את קואורדינטות ה-X וה-Y שלו"
+    },
+    {
+      "id": 286,
+      "context": "MacroSetToolDlg",
+      "source": "Enter text",
+      "comment": "",
+      "translation": "הזן טקסט"
+    },
+    {
+      "id": 287,
+      "context": "MacroSetToolDlg",
+      "source": "Home",
+      "comment": "",
+      "translation": "מסך הבית"
+    },
+    {
+      "id": 288,
+      "context": "MacroSetToolDlg",
+      "source": "Interval",
+      "comment": "",
+      "translation": "השהייה"
+    },
+    {
+      "id": 289,
+      "context": "MacroSetToolDlg",
+      "source": "Long press",
+      "comment": "",
+      "translation": "לחיצה ארוכה"
+    },
+    {
+      "id": 290,
+      "context": "MacroSetToolDlg",
+      "source": "Press the configured button",
+      "comment": "",
+      "translation": "לחץ על הכפתור שהוגדר"
+    },
+    {
+      "id": 291,
+      "context": "MacroSetToolDlg",
+      "source": "Repeat",
+      "comment": "",
+      "translation": "לולאה"
+    },
+    {
+      "id": 292,
+      "context": "MacroSetToolDlg",
+      "source": "Save",
+      "comment": "",
+      "translation": "שמירה"
+    },
+    {
+      "id": 293,
+      "context": "MacroSetToolDlg",
+      "source": "Slide",
+      "comment": "",
+      "translation": "החלקה"
+    },
+    {
+      "id": 294,
+      "context": "MacroWidget",
+      "source": "Click to edit",
+      "comment": "",
+      "translation": "לחץ לעריכה"
+    },
+    {
+      "id": 295,
+      "context": "MacroWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 296,
+      "context": "MacroWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 297,
+      "context": "MacroWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 298,
+      "context": "MacroWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 299,
+      "context": "MacroWidget",
+      "source": "Press to enter the script editor",
+      "comment": "",
+      "translation": "לחץ כדי להיכנס לעורך הסקריפטים"
+    },
+    {
+      "id": 300,
+      "context": "MacroWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 301,
+      "context": "MainToolbarWidget",
+      "source": "Back",
+      "comment": "",
+      "translation": "חזור"
+    },
+    {
+      "id": 302,
+      "context": "MainToolbarWidget",
+      "source": "Cleanup",
+      "comment": "",
+      "translation": "סגור את כל האפליקציות"
+    },
+    {
+      "id": 303,
+      "context": "MainToolbarWidget",
+      "source": "Close Applications",
+      "comment": "",
+      "translation": "סגור את כל האפליקציות"
+    },
+    {
+      "id": 304,
+      "context": "MainToolbarWidget",
+      "source": "Common Manage",
+      "comment": "",
+      "translation": "נהל פונקציות נפוצות"
+    },
+    {
+      "id": 305,
+      "context": "MainToolbarWidget",
+      "source": "Controller",
+      "comment": "",
+      "translation": "בקר משחק"
+    },
+    {
+      "id": 306,
+      "context": "MainToolbarWidget",
+      "source": "Exit screen",
+      "comment": "",
+      "translation": "צא ממסך מלא"
+    },
+    {
+      "id": 307,
+      "context": "MainToolbarWidget",
+      "source": "Full Screen",
+      "comment": "",
+      "translation": "מסך מלא"
+    },
+    {
+      "id": 308,
+      "context": "MainToolbarWidget",
+      "source": "Home",
+      "comment": "",
+      "translation": "מסך הבית"
+    },
+    {
+      "id": 309,
+      "context": "MainToolbarWidget",
+      "source": "Live streaming",
+      "comment": "",
+      "translation": "שידור חי"
+    },
+    {
+      "id": 310,
+      "context": "MainToolbarWidget",
+      "source": "Menu",
+      "comment": "",
+      "translation": "תפריט"
+    },
+    {
+      "id": 311,
+      "context": "MainToolbarWidget",
+      "source": "More Toolbar",
+      "comment": "",
+      "translation": "עוד"
+    },
+    {
+      "id": 312,
+      "context": "MainToolbarWidget",
+      "source": "MultiPlayer",
+      "comment": "",
+      "translation": "מנהל ריבוי מופעים (Multi-Instance)"
+    },
+    {
+      "id": 313,
+      "context": "MainToolbarWidget",
+      "source": "Mute",
+      "comment": "",
+      "translation": "השתק"
+    },
+    {
+      "id": 314,
+      "context": "MainToolbarWidget",
+      "source": "My Computer",
+      "comment": "",
+      "translation": "המחשב שלי"
+    },
+    {
+      "id": 315,
+      "context": "MainToolbarWidget",
+      "source": "Reboot Android",
+      "comment": "",
+      "translation": "הפעל מחדש את Android"
+    },
+    {
+      "id": 316,
+      "context": "MainToolbarWidget",
+      "source": "Screen Capture",
+      "comment": "",
+      "translation": "צילום מסך"
+    },
+    {
+      "id": 317,
+      "context": "MainToolbarWidget",
+      "source": "Script Record",
+      "comment": "",
+      "translation": "מקליט מאקרו"
+    },
+    {
+      "id": 318,
+      "context": "MainToolbarWidget",
+      "source": "Shake",
+      "comment": "",
+      "translation": "נער"
+    },
+    {
+      "id": 319,
+      "context": "MainToolbarWidget",
+      "source": "Simulate Touch",
+      "comment": "",
+      "translation": "בקרת מקלדת"
+    },
+    {
+      "id": 320,
+      "context": "MainToolbarWidget",
+      "source": "Video Record",
+      "comment": "",
+      "translation": "מקליט וידאו"
+    },
+    {
+      "id": 321,
+      "context": "MainToolbarWidget",
+      "source": "Virtual Location",
+      "comment": "",
+      "translation": "מיקום וירטואלי"
+    },
+    {
+      "id": 322,
+      "context": "MainToolbarWidget",
+      "source": "Volume+",
+      "comment": "",
+      "translation": "הגבר עוצמת שמע"
+    },
+    {
+      "id": 323,
+      "context": "MainToolbarWidget",
+      "source": "Volume-",
+      "comment": "",
+      "translation": "הנמך עוצמת שמע"
+    },
+    {
+      "id": 324,
+      "context": "MessageBoxDlg",
+      "source": "Available Memory",
+      "comment": "",
+      "translation": "זיכרון פנוי"
+    },
+    {
+      "id": 325,
+      "context": "MessageBoxDlg",
+      "source": "CPU",
+      "comment": "",
+      "translation": "CPU"
+    },
+    {
+      "id": 326,
+      "context": "MessageBoxDlg",
+      "source": "CPU VT",
+      "comment": "",
+      "translation": "CPU VT"
+    },
+    {
+      "id": 327,
+      "context": "MessageBoxDlg",
+      "source": "Discrete Graphics",
+      "comment": "",
+      "translation": "כרטיס מסך ייעודי"
+    },
+    {
+      "id": 328,
+      "context": "MessageBoxDlg",
+      "source": "FAQ",
+      "comment": "",
+      "translation": "שאלות נפוצות"
+    },
+    {
+      "id": 329,
+      "context": "MessageBoxDlg",
+      "source": "Nox Version",
+      "comment": "",
+      "translation": "גרסת Nox"
+    },
+    {
+      "id": 330,
+      "context": "MessageBoxDlg",
+      "source": "OS Version",
+      "comment": "",
+      "translation": "גרסת מערכת"
+    },
+    {
+      "id": 331,
+      "context": "MessageBoxDlg",
+      "source": "OpenGL Renderer",
+      "comment": "",
+      "translation": "רינדור OpenGL"
+    },
+    {
+      "id": 332,
+      "context": "MessageBoxDlg",
+      "source": "OpenGL Version",
+      "comment": "",
+      "translation": "גרסת OpenGL"
+    },
+    {
+      "id": 333,
+      "context": "MessageBoxDlg",
+      "source": "Refresh",
+      "comment": "",
+      "translation": "רענן"
+    },
+    {
+      "id": 334,
+      "context": "MessageBoxDlg",
+      "source": "Rendering Mode",
+      "comment": "",
+      "translation": "מצב רינדור"
+    },
+    {
+      "id": 335,
+      "context": "MessageBoxDlg",
+      "source": "Total Memory",
+      "comment": "",
+      "translation": "סך הזיכרון"
+    },
+    {
+      "id": 336,
+      "context": "MessageBoxDlg",
+      "source": "Video Card",
+      "comment": "",
+      "translation": "כרטיס מסך"
+    },
+    {
+      "id": 337,
+      "context": "MouseRightMoveWidget",
+      "source": "Adjust moving distance: the number indicates the distance",
+      "comment": "",
+      "translation": "התאם מרחק תנועה: המספר מציין את המרחק"
+    },
+    {
+      "id": 338,
+      "context": "MouseRightMoveWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 339,
+      "context": "MouseRightMoveWidget",
+      "source": "Drag to the direction control area and move with right click",
+      "comment": "",
+      "translation": "גרור לאזור בקרת הכיוון וזוז באמצעות לחיצה ימנית"
+    },
+    {
+      "id": 340,
+      "context": "MouseRightMoveWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 341,
+      "context": "MouseRightMoveWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 342,
+      "context": "MouseRightMoveWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 343,
+      "context": "MsgNotifyManager",
+      "source": "Close",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 344,
+      "context": "MsgNotifyManager",
+      "source": "Do not prompt again",
+      "comment": "",
+      "translation": "אל תשאל שוב"
+    },
+    {
+      "id": 345,
+      "context": "MultipleSetWidget",
+      "source": "Click mode",
+      "comment": "",
+      "translation": "מצב לחיצה"
+    },
+    {
+      "id": 346,
+      "context": "MultipleSetWidget",
+      "source": "Long press mode",
+      "comment": "",
+      "translation": "מצב לחיצה ארוכה"
+    },
+    {
+      "id": 347,
+      "context": "MultipleSetWidget",
+      "source": "Long press to perform multistrike",
+      "comment": "",
+      "translation": "לחיצה ארוכה לביצוע תקיפה מרובה"
+    },
+    {
+      "id": 348,
+      "context": "MultipleSetWidget",
+      "source": "Perform multistrike by one click",
+      "comment": "",
+      "translation": "בצע תקיפה מרובה בלחיצה אחת"
+    },
+    {
+      "id": 349,
+      "context": "MultipleSetWidget",
+      "source": "multistrike settings",
+      "comment": "",
+      "translation": "הגדרות תקיפה מרובה"
+    },
+    {
+      "id": 350,
+      "context": "MultipleStrikeWidget",
+      "source": "Click to edit",
+      "comment": "",
+      "translation": "לחץ לעריכה"
+    },
+    {
+      "id": 351,
+      "context": "MultipleStrikeWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 352,
+      "context": "MultipleStrikeWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 353,
+      "context": "MultipleStrikeWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 354,
+      "context": "MultipleStrikeWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 355,
+      "context": "MultipleStrikeWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 356,
+      "context": "MultipleStrikeWidget",
+      "source": "Set a key",
+      "comment": "",
+      "translation": "הגדר מקש"
+    },
+    {
+      "id": 357,
+      "context": "MultipleStrikeWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 358,
+      "context": "MultipleStrikeWidget",
+      "source": "The number of strikes",
+      "comment": "",
+      "translation": "מספר התקיפות"
+    },
+    {
+      "id": 359,
+      "context": "MultipleStrikeWidget",
+      "source": "The number of strikes per second",
+      "comment": "",
+      "translation": "מספר התקיפות בשנייה"
+    },
+    {
+      "id": 360,
+      "context": "Novice_Guidance",
+      "source": "Got it",
+      "comment": "",
+      "translation": "הבנתי"
+    },
+    {
+      "id": 361,
+      "context": "NoxLiveStreaming",
+      "source": "Login",
+      "comment": "",
+      "translation": "התחבר"
+    },
+    {
+      "id": 362,
+      "context": "NoxLiveStreaming",
+      "source": "live streaming-login",
+      "comment": "",
+      "translation": "התחל שידור-התחבר"
+    },
+    {
+      "id": 363,
+      "context": "NoxLiveStreaming",
+      "source": "sign up",
+      "comment": "",
+      "translation": "הרשמה"
+    },
+    {
+      "id": 364,
+      "context": "NoxPlayerWindow",
+      "source": " is running! Do you want to quit?",
+      "comment": "",
+      "translation": " בביצוע, האם ברצונך לצאת?"
+    },
+    {
+      "id": 365,
+      "context": "NoxPlayerWindow",
+      "source": "@xxx@ installed successfully! Start it now!",
+      "comment": "",
+      "translation": "@xxx@ הותקן בהצלחה! הפעל אותו כעת!"
+    },
+    {
+      "id": 366,
+      "context": "NoxPlayerWindow",
+      "source": "A conflicting program (DNF: Dungeon & Fighter) is detected. Please close the program and try again.",
+      "comment": "",
+      "translation": "זוהתה תוכנה מתנגשת (DNF: Dungeon & Fighter). אנא סגור את התוכנה ונסה שוב."
+    },
+    {
+      "id": 367,
+      "context": "NoxPlayerWindow",
+      "source": "Already the latest version!",
+      "comment": "",
+      "translation": "ברשותך הגרסה העדכנית ביותר."
+    },
+    {
+      "id": 368,
+      "context": "NoxPlayerWindow",
+      "source": "Android Update",
+      "comment": "",
+      "translation": "בדוק עדכונים"
+    },
+    {
+      "id": 369,
+      "context": "NoxPlayerWindow",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 370,
+      "context": "NoxPlayerWindow",
+      "source": "Cancel cleanup success!",
+      "comment": "",
+      "translation": "בוטל"
+    },
+    {
+      "id": 371,
+      "context": "NoxPlayerWindow",
+      "source": "Change to Speed Mode (DirectX)",
+      "comment": "",
+      "translation": "שנה למצב בסיסי"
+    },
+    {
+      "id": 372,
+      "context": "NoxPlayerWindow",
+      "source": "Check Emulator components Failed!",
+      "comment": "",
+      "translation": "Nox נכשל בבדיקת הרכיבים!"
+    },
+    {
+      "id": 373,
+      "context": "NoxPlayerWindow",
+      "source": "Clean up",
+      "comment": "",
+      "translation": "נקה שטח דיסק"
+    },
+    {
+      "id": 374,
+      "context": "NoxPlayerWindow",
+      "source": "Cleanup finish.\nThe release of space ",
+      "comment": "",
+      "translation": "הניקוי הושלם. שטח דיסק שהתפנה: "
+    },
+    {
+      "id": 375,
+      "context": "NoxPlayerWindow",
+      "source": "Close",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 376,
+      "context": "NoxPlayerWindow",
+      "source": "Close Player",
+      "comment": "",
+      "translation": "סגור את האמולטור"
+    },
+    {
+      "id": 377,
+      "context": "NoxPlayerWindow",
+      "source": "Close all applications and free memory",
+      "comment": "",
+      "translation": "סגרת את כל האפליקציות ופינית זיכרון"
+    },
+    {
+      "id": 378,
+      "context": "NoxPlayerWindow",
+      "source": "Confirm",
+      "comment": "",
+      "translation": "כן"
+    },
+    {
+      "id": 379,
+      "context": "NoxPlayerWindow",
+      "source": "Connect to wired / 2.4G network and restart",
+      "comment": "",
+      "translation": "התחבר לרשת קווית / Wi-Fi 2.4G והפעל מחדש"
+    },
+    {
+      "id": 380,
+      "context": "NoxPlayerWindow",
+      "source": "Contact",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 381,
+      "context": "NoxPlayerWindow",
+      "source": "Controller Configuration",
+      "comment": "",
+      "translation": "הגדרות בקר משחק"
+    },
+    {
+      "id": 382,
+      "context": "NoxPlayerWindow",
+      "source": "Current version:",
+      "comment": "",
+      "translation": "מספר גרסה: "
+    },
+    {
+      "id": 383,
+      "context": "NoxPlayerWindow",
+      "source": "Data protection operation is underway, avoid data damage,please close it later!",
+      "comment": "",
+      "translation": "שמירה מתבצעת. כדי למנוע השחתת נתונים, אנא צא מאוחר יותר."
+    },
+    {
+      "id": 384,
+      "context": "NoxPlayerWindow",
+      "source": "Data protection operation is underway, avoid data damage,please try it later!",
+      "comment": "",
+      "translation": "שמירה מתבצעת. כדי למנוע השחתת נתונים, אנא נסה שוב מאוחר יותר."
+    },
+    {
+      "id": 385,
+      "context": "NoxPlayerWindow",
+      "source": "Decide later",
+      "comment": "",
+      "translation": "מאוחר יותר"
+    },
+    {
+      "id": 386,
+      "context": "NoxPlayerWindow",
+      "source": "Disabled",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 387,
+      "context": "NoxPlayerWindow",
+      "source": "Do not prompt again",
+      "comment": "",
+      "translation": "אל תשאל שוב"
+    },
+    {
+      "id": 388,
+      "context": "NoxPlayerWindow",
+      "source": "Do you want to close the current window?",
+      "comment": "",
+      "translation": "האם אתה בטוח שברצונך לסגור את Nox?"
+    },
+    {
+      "id": 389,
+      "context": "NoxPlayerWindow",
+      "source": "Downloading:",
+      "comment": "",
+      "translation": "מוריד:"
+    },
+    {
+      "id": 390,
+      "context": "NoxPlayerWindow",
+      "source": "Driver successfully installed, restart to activate it.",
+      "comment": "",
+      "translation": "מנהל ההתקן הותקן בהצלחה, הפעל מחדש כדי להחיל שינויים!"
+    },
+    {
+      "id": 391,
+      "context": "NoxPlayerWindow",
+      "source": "Emulator has been minimized to the toolbar!",
+      "comment": "",
+      "translation": "Nox ממוזער לסרגל הכלים!"
+    },
+    {
+      "id": 392,
+      "context": "NoxPlayerWindow",
+      "source": "Emulator is exiting, please try later!",
+      "comment": "",
+      "translation": "יוצא מ-Nox, אנא נסה שוב מאוחר יותר!"
+    },
+    {
+      "id": 393,
+      "context": "NoxPlayerWindow",
+      "source": "Enabled",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 394,
+      "context": "NoxPlayerWindow",
+      "source": "FAQ",
+      "comment": "",
+      "translation": "שאלות נפוצות"
+    },
+    {
+      "id": 395,
+      "context": "NoxPlayerWindow",
+      "source": "HELP",
+      "comment": "",
+      "translation": "לחץ לקבלת עזרה"
+    },
+    {
+      "id": 396,
+      "context": "NoxPlayerWindow",
+      "source": "Help",
+      "comment": "",
+      "translation": "לחץ לקבלת עזרה"
+    },
+    {
+      "id": 397,
+      "context": "NoxPlayerWindow",
+      "source": "Ignore",
+      "comment": "",
+      "translation": "התעלם"
+    },
+    {
+      "id": 398,
+      "context": "NoxPlayerWindow",
+      "source": "Illegal file! apk file is expected!",
+      "comment": "",
+      "translation": "פורמט קובץ זה אינו נתמך, אנא גרור את קובץ ה-APK!"
+    },
+    {
+      "id": 399,
+      "context": "NoxPlayerWindow",
+      "source": "Insufficient disk space, please free some space to continue.",
+      "comment": "",
+      "translation": " שטח דיסק לא מספיק, אנא פנה מקום כדי להמשיך."
+    },
+    {
+      "id": 400,
+      "context": "NoxPlayerWindow",
+      "source": "Insufficient physical memory. Please quit some programs and try again.",
+      "comment": "",
+      "translation": "זיכרון פיזי לא מספיק. אנא סגור מספר תוכניות ונסה שוב."
+    },
+    {
+      "id": 401,
+      "context": "NoxPlayerWindow",
+      "source": "Internet connection error. Please try again later.",
+      "comment": "",
+      "translation": "שגיאת רשת, אנא נסה שוב מאוחר יותר."
+    },
+    {
+      "id": 402,
+      "context": "NoxPlayerWindow",
+      "source": "Keyboard control is disabled",
+      "comment": "",
+      "translation": "בקרת מקלדת כבויה"
+    },
+    {
+      "id": 403,
+      "context": "NoxPlayerWindow",
+      "source": "Keyboard control is enabled",
+      "comment": "",
+      "translation": "בקרת מקלדת מופעלת"
+    },
+    {
+      "id": 404,
+      "context": "NoxPlayerWindow",
+      "source": "Later",
+      "comment": "",
+      "translation": "מאוחר יותר"
+    },
+    {
+      "id": 405,
+      "context": "NoxPlayerWindow",
+      "source": "Live streaming now!",
+      "comment": "",
+      "translation": "אנא צא מהשידור קודם!"
+    },
+    {
+      "id": 406,
+      "context": "NoxPlayerWindow",
+      "source": "Maximize",
+      "comment": "",
+      "translation": "הגדל"
+    },
+    {
+      "id": 407,
+      "context": "NoxPlayerWindow",
+      "source": "Minimize",
+      "comment": "",
+      "translation": "מזער"
+    },
+    {
+      "id": 408,
+      "context": "NoxPlayerWindow",
+      "source": "More...",
+      "comment": "",
+      "translation": "עוד..."
+    },
+    {
+      "id": 409,
+      "context": "NoxPlayerWindow",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 410,
+      "context": "NoxPlayerWindow",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 411,
+      "context": "NoxPlayerWindow",
+      "source": "Not enough disk space.",
+      "comment": "",
+      "translation": "שטח דיסק לא מספיק"
+    },
+    {
+      "id": 412,
+      "context": "NoxPlayerWindow",
+      "source": "Nox",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 413,
+      "context": "NoxPlayerWindow",
+      "source": "Nox Live Streaming  need to download obs plugins.Size: around 27 MB",
+      "comment": "",
+      "translation": "שידור חי / הקלטת וידאו דורש הורדת תוסף. גודל: 30 מ\"ב"
+    },
+    {
+      "id": 414,
+      "context": "NoxPlayerWindow",
+      "source": "Nox Live Streaming plug has new version,please update!",
+      "comment": "",
+      "translation": "זוהתה גרסה חדשה לתוסף שידור / הקלטת וידאו. לחץ כאן להורדה."
+    },
+    {
+      "id": 415,
+      "context": "NoxPlayerWindow",
+      "source": "Nox Video Record plug has new version,please update!",
+      "comment": "",
+      "translation": "התגלתה גרסה חדשה. אנא עדכן את תוסף מקליט הווידאו תחילה!"
+    },
+    {
+      "id": 416,
+      "context": "NoxPlayerWindow",
+      "source": "NoxPlayer",
+      "comment": "",
+      "translation": "NoxPlayer"
+    },
+    {
+      "id": 417,
+      "context": "NoxPlayerWindow",
+      "source": "OK",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 418,
+      "context": "NoxPlayerWindow",
+      "source": "Ok",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 419,
+      "context": "NoxPlayerWindow",
+      "source": "Open",
+      "comment": "",
+      "translation": "פתח"
+    },
+    {
+      "id": 420,
+      "context": "NoxPlayerWindow",
+      "source": "Phone Sync",
+      "comment": "",
+      "translation": "סנכרון נייד"
+    },
+    {
+      "id": 421,
+      "context": "NoxPlayerWindow",
+      "source": "Play with Gamepad",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 422,
+      "context": "NoxPlayerWindow",
+      "source": "Please install or update Nox Game Cetner first.",
+      "comment": "",
+      "translation": "אנא התקן תחילה את Nox Game Center."
+    },
+    {
+      "id": 423,
+      "context": "NoxPlayerWindow",
+      "source": "Please restart to complete compression",
+      "comment": "",
+      "translation": "אנא הפעל מחדש את האמולטור כדי לסיים את הניקוי"
+    },
+    {
+      "id": 424,
+      "context": "NoxPlayerWindow",
+      "source": "Please stop script record first!",
+      "comment": "",
+      "translation": "אנא עצור את מקליט המאקרו לפני היציאה."
+    },
+    {
+      "id": 425,
+      "context": "NoxPlayerWindow",
+      "source": "Please wait for rom's boot!",
+      "comment": "",
+      "translation": "מפעיל מערכת, אנא המתן!"
+    },
+    {
+      "id": 426,
+      "context": "NoxPlayerWindow",
+      "source": "Press ESC to exit full screen",
+      "comment": "",
+      "translation": "לחץ על ESC ליציאה ממסך מלא"
+    },
+    {
+      "id": 427,
+      "context": "NoxPlayerWindow",
+      "source": "QQ :",
+      "comment": "",
+      "translation": "שירות לקוחות:"
+    },
+    {
+      "id": 428,
+      "context": "NoxPlayerWindow",
+      "source": "Quit",
+      "comment": "",
+      "translation": "יציאה"
+    },
+    {
+      "id": 429,
+      "context": "NoxPlayerWindow",
+      "source": "Quit (&Q)",
+      "comment": "",
+      "translation": "יציאה (&Q)"
+    },
+    {
+      "id": 430,
+      "context": "NoxPlayerWindow",
+      "source": "Recovery",
+      "comment": "",
+      "translation": "איפוס"
+    },
+    {
+      "id": 431,
+      "context": "NoxPlayerWindow",
+      "source": "Report a problem",
+      "comment": "",
+      "translation": "משוב"
+    },
+    {
+      "id": 432,
+      "context": "NoxPlayerWindow",
+      "source": "Restart",
+      "comment": "",
+      "translation": "הפעלה מחדש"
+    },
+    {
+      "id": 433,
+      "context": "NoxPlayerWindow",
+      "source": "Restart now",
+      "comment": "",
+      "translation": "הפעלה מחדש כעת"
+    },
+    {
+      "id": 434,
+      "context": "NoxPlayerWindow",
+      "source": "Restore",
+      "comment": "",
+      "translation": "שחזר"
+    },
+    {
+      "id": 435,
+      "context": "NoxPlayerWindow",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 436,
+      "context": "NoxPlayerWindow",
+      "source": "Set",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 437,
+      "context": "NoxPlayerWindow",
+      "source": "Switch mode",
+      "comment": "",
+      "translation": "החלף מצב כרטיס מסך"
+    },
+    {
+      "id": 438,
+      "context": "NoxPlayerWindow",
+      "source": "System Settings",
+      "comment": "",
+      "translation": "הגדרות מערכת"
+    },
+    {
+      "id": 439,
+      "context": "NoxPlayerWindow",
+      "source": "System Specs",
+      "comment": "",
+      "translation": "מידע מערכת"
+    },
+    {
+      "id": 440,
+      "context": "NoxPlayerWindow",
+      "source": "System Tool",
+      "comment": "",
+      "translation": "כלי מערכת"
+    },
+    {
+      "id": 441,
+      "context": "NoxPlayerWindow",
+      "source": "System init timeout, please restart!",
+      "comment": "",
+      "translation": "פסק זמן בהפעלת המערכת, צא זמנית מכל תוכנת אבטחה ונסה שוב!"
+    },
+    {
+      "id": 442,
+      "context": "NoxPlayerWindow",
+      "source": "System is abnormal,please try to restart,if invalid,you can recover to the last restore point",
+      "comment": "",
+      "translation": "שגיאת מערכת, אנא הפעל מחדש. אם ההפעלה מחדש נכשלה, תוכל לנסות לשחזר לנקודת השחזור האחרונה."
+    },
+    {
+      "id": 443,
+      "context": "NoxPlayerWindow",
+      "source": "System is abnormal,please try to restart,if invalid,you can recover to the original state",
+      "comment": "",
+      "translation": "חריגת מערכת, אנא נסה להפעיל מחדש. אם ההפעלה מחדש לא עוזרת, תוכל ללחוץ על כפתור האיפוס כדי ליצור אמולטור חדש להמשך שימוש."
+    },
+    {
+      "id": 444,
+      "context": "NoxPlayerWindow",
+      "source": "System not ready, please try again later!",
+      "comment": "",
+      "translation": "מפעיל, אנא נסה שוב מאוחר יותר!"
+    },
+    {
+      "id": 445,
+      "context": "NoxPlayerWindow",
+      "source": "Update",
+      "comment": "",
+      "translation": "בדוק עדכונים"
+    },
+    {
+      "id": 446,
+      "context": "NoxPlayerWindow",
+      "source": "Uploading another file, please try again later!",
+      "comment": "",
+      "translation": "מעלה קבצים אחרים, אנא נסה שוב מאוחר יותר!"
+    },
+    {
+      "id": 447,
+      "context": "NoxPlayerWindow",
+      "source": "Video recorder will help you capture Nox window and audio to create videos.Size: around 27 MB",
+      "comment": "",
+      "translation": "מקליט הווידאו יעזור לך ללכוד את מסך Nox והשמע ליצירת סרטונים. גודל קובץ: כ-30 מ\"ב"
+    },
+    {
+      "id": 448,
+      "context": "NoxPlayerWindow",
+      "source": "Would you like to log out your Google account?",
+      "comment": "",
+      "translation": "האם ברצונך להתנתק מחשבון ה-Google שלך?"
+    },
+    {
+      "id": 449,
+      "context": "NoxPlayerWindow",
+      "source": "Yes",
+      "comment": "",
+      "translation": "כן"
+    },
+    {
+      "id": 450,
+      "context": "NoxPlayerWindow",
+      "source": "is available",
+      "comment": "",
+      "translation": " זמין"
+    },
+    {
+      "id": 451,
+      "context": "NoxPlayerWindow",
+      "source": "please stop video record first!",
+      "comment": "",
+      "translation": "אנא עצור את הקלטת הווידאו תחילה."
+    },
+    {
+      "id": 452,
+      "context": "NoxPlayerWindow",
+      "source": "require root privileges to execute!",
+      "comment": "",
+      "translation": "אנא הפעל Root בהגדרות המערכת כדי להשתמש בפונקציה זו."
+    },
+    {
+      "id": 453,
+      "context": "NoxPlayerWindow",
+      "source": "restart",
+      "comment": "",
+      "translation": "הפעלה מחדש"
+    },
+    {
+      "id": 454,
+      "context": "NoxPlayerWindow",
+      "source": "start to install",
+      "comment": "",
+      "translation": "התחל התקנה"
+    },
+    {
+      "id": 455,
+      "context": "NoxPlayerWindow",
+      "source": "upload file fail!",
+      "comment": "",
+      "translation": "העלאת הקובץ נכשלה!"
+    },
+    {
+      "id": 456,
+      "context": "NoxPlayerWindow",
+      "source": "vm install error!",
+      "comment": "",
+      "translation": "שגיאת התקנת מכונה וירטואלית!"
+    },
+    {
+      "id": 457,
+      "context": "NoxPlayerWindow",
+      "source": "vm path error!",
+      "comment": "",
+      "translation": "שגיאת נתיב מכונה וירטואלית!"
+    },
+    {
+      "id": 458,
+      "context": "NoxTVWidget",
+      "source": "Authenticate failed! The account  has no live stream permissions!",
+      "comment": "",
+      "translation": "חשבון ה-Panda TV שלך אינו מורשה עדיין לשדר. לחץ על אישור כדי להגיש בקשה לאפשרות השידור."
+    },
+    {
+      "id": 459,
+      "context": "NoxTVWidget",
+      "source": "Authenticate failed! The server abnormal",
+      "comment": "",
+      "translation": "חיבור החשבון לשידור נכשל."
+    },
+    {
+      "id": 460,
+      "context": "NoxTVWidget",
+      "source": "Please begin to living streaming!",
+      "comment": "",
+      "translation": "התחל שידור עם החשבון המחובר!"
+    },
+    {
+      "id": 461,
+      "context": "NoxTVWidget",
+      "source": "Start Streaming",
+      "comment": "",
+      "translation": "התחל שידור"
+    },
+    {
+      "id": 462,
+      "context": "NoxTVWidget",
+      "source": "live streaming-oauth",
+      "comment": "",
+      "translation": "התחל שידור-חבר חשבון"
+    },
+    {
+      "id": 463,
+      "context": "ObsDownloadDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 464,
+      "context": "ObsDownloadDlg",
+      "source": "Download completed",
+      "comment": "",
+      "translation": "ההורדה הושלמה"
+    },
+    {
+      "id": 465,
+      "context": "ObsDownloadDlg",
+      "source": "Downloading:",
+      "comment": "",
+      "translation": "מוריד:"
+    },
+    {
+      "id": 466,
+      "context": "PhoneSyncDialog",
+      "source": "\"Nox App Center\"",
+      "comment": "",
+      "translation": "\"Nox App Center\""
+    },
+    {
+      "id": 467,
+      "context": "PhoneSyncDialog",
+      "source": "Form",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 468,
+      "context": "PhoneSyncDialog",
+      "source": "Phone Sync",
+      "comment": "",
+      "translation": "סנכרון נייד"
+    },
+    {
+      "id": 469,
+      "context": "PhoneSyncDialog",
+      "source": "Scan the qr code,download the ",
+      "comment": "",
+      "translation": "סרוק את קוד ה-QR והורד"
+    },
+    {
+      "id": 470,
+      "context": "PhoneSyncDialog",
+      "source": "make the phone app and emulator synchronous",
+      "comment": "",
+      "translation": "המשך לשחק בטלפון שלך"
+    },
+    {
+      "id": 471,
+      "context": "PhoneSyncDialog",
+      "source": "to phones",
+      "comment": "",
+      "translation": "גרסת מובייל,"
+    },
+    {
+      "id": 472,
+      "context": "Pop_message_page",
+      "source": "Form",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 473,
+      "context": "Pop_message_page",
+      "source": "NoxPlayer_delete",
+      "comment": "",
+      "translation": "מומלץ על ידי Nox"
+    },
+    {
+      "id": 474,
+      "context": "Pop_message_page",
+      "source": "about:blank",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 475,
+      "context": "PreviewTipWidget",
+      "source": "Do not prompt again",
+      "comment": "",
+      "translation": "אל תשאל שוב"
+    },
+    {
+      "id": 476,
+      "context": "PubgmhdConfigWidget",
+      "source": "Close",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 477,
+      "context": "PubgmhdConfigWidget",
+      "source": "Extreme + HDR",
+      "comment": "",
+      "translation": "Extreme+HDR"
+    },
+    {
+      "id": 478,
+      "context": "PubgmhdConfigWidget",
+      "source": "Game settings",
+      "comment": "",
+      "translation": "הגדרות משחק"
+    },
+    {
+      "id": 479,
+      "context": "PubgmhdConfigWidget",
+      "source": "HD 1080P",
+      "comment": "",
+      "translation": "HD 1080P"
+    },
+    {
+      "id": 480,
+      "context": "PubgmhdConfigWidget",
+      "source": "Modify",
+      "comment": "",
+      "translation": "שנה"
+    },
+    {
+      "id": 481,
+      "context": "PubgmhdConfigWidget",
+      "source": "Open",
+      "comment": "",
+      "translation": "פתח"
+    },
+    {
+      "id": 482,
+      "context": "PubgmhdConfigWidget",
+      "source": "Resolution",
+      "comment": "",
+      "translation": "רזולוציה"
+    },
+    {
+      "id": 483,
+      "context": "PubgmhdConfigWidget",
+      "source": "SD 720P",
+      "comment": "",
+      "translation": "SD 720P"
+    },
+    {
+      "id": 484,
+      "context": "PubgmhdConfigWidget",
+      "source": "UHD 2K",
+      "comment": "",
+      "translation": "UHD 2K"
+    },
+    {
+      "id": 485,
+      "context": "QObject",
+      "source": "4399 Game Player",
+      "comment": "",
+      "translation": "4399 Shouyoutong"
+    },
+    {
+      "id": 486,
+      "context": "QObject",
+      "source": "All Apk File",
+      "comment": "",
+      "translation": "כל קובצי ה-APK"
+    },
+    {
+      "id": 487,
+      "context": "QObject",
+      "source": "All Img File",
+      "comment": "",
+      "translation": "כל קובצי התמונה"
+    },
+    {
+      "id": 488,
+      "context": "QObject",
+      "source": "All Other File",
+      "comment": "",
+      "translation": "כל שאר הקבצים"
+    },
+    {
+      "id": 489,
+      "context": "QObject",
+      "source": "Apk File",
+      "comment": "",
+      "translation": "קובץ APK"
+    },
+    {
+      "id": 490,
+      "context": "QObject",
+      "source": "Button prompt",
+      "comment": "",
+      "translation": "הנחיית כפתור"
+    },
+    {
+      "id": 491,
+      "context": "QObject",
+      "source": "Download",
+      "comment": "",
+      "translation": "הורדה"
+    },
+    {
+      "id": 492,
+      "context": "QObject",
+      "source": "Exception",
+      "comment": "",
+      "translation": "שגיאה"
+    },
+    {
+      "id": 493,
+      "context": "QObject",
+      "source": "Failed to install APK",
+      "comment": "",
+      "translation": "התקנת האפליקציה נכשלה"
+    },
+    {
+      "id": 494,
+      "context": "QObject",
+      "source": "Gamepad driver needs to be installed. Please visit <a href=\"http://www.garena.sg\" style=\"color:#00cff0\">this page</a> for the list of supported gamepad models.",
+      "comment": "",
+      "translation": "יש להתקין מנהל התקן לבקר משחק. אנא בקר ב<a href=\"http://www.garena.sg\" style=\"color:#00cff0\">עמוד זה</a> לרשימת דגמי בקרי המשחק הנתמכים."
+    },
+    {
+      "id": 495,
+      "context": "QObject",
+      "source": "Initialization failure: screen resolution or DPI",
+      "comment": "",
+      "translation": "נכשל באתחול המסך: שנה את הרזולוציה או ה-DPI"
+    },
+    {
+      "id": 496,
+      "context": "QObject",
+      "source": "OK",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 497,
+      "context": "QObject",
+      "source": "Ok",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 498,
+      "context": "QObject",
+      "source": "Other File",
+      "comment": "",
+      "translation": "קובץ אחר"
+    },
+    {
+      "id": 499,
+      "context": "QObject",
+      "source": "Processor info error, restart emulator please!",
+      "comment": "",
+      "translation": "שגיאת מעבד, אנא הפעל מחדש את Nox!"
+    },
+    {
+      "id": 500,
+      "context": "QObject",
+      "source": "System fail to start, please contact customer service!",
+      "comment": "",
+      "translation": "הפעלת Nox נכשלה, אנא צור קשר עם תמיכת הלקוחות שלנו!"
+    },
+    {
+      "id": 501,
+      "context": "QObject",
+      "source": "Unexpected error has occurred, please try again.",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 502,
+      "context": "QObject",
+      "source": "You can plug in your gamepad to play now. Please visit <a href=\"http://www.garena.sg\" style=\"color:#00cff0\">this page</a> for the list of supported gamepad models.",
+      "comment": "",
+      "translation": "כעת ניתן לחבר את בקר המשחק שלך כדי לשחק. אנא בקר ב<a href=\"http://www.garena.sg\" style=\"color:#00cff0\">עמוד זה</a> לרשימת דגמי בקרי המשחק הנתמכים."
+    },
+    {
+      "id": 503,
+      "context": "QObject",
+      "source": "Your current video card driver version is too low, please upgrade the graphics driver to use!",
+      "comment": "",
+      "translation": "מנהל ההתקן של כרטיס המסך שלך מיושן, אנא עדכן לפני השימוש!"
+    },
+    {
+      "id": 504,
+      "context": "QuickKeyWidget",
+      "source": "Click to edit",
+      "comment": "",
+      "translation": "לחץ לעריכה"
+    },
+    {
+      "id": 505,
+      "context": "QuickKeyWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 506,
+      "context": "QuickKeyWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 507,
+      "context": "QuickKeyWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 508,
+      "context": "QuickKeyWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 509,
+      "context": "QuickKeyWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 510,
+      "context": "QuickKeyWidget",
+      "source": "Set a key",
+      "comment": "",
+      "translation": "הגדר מקש"
+    },
+    {
+      "id": 511,
+      "context": "QuickKeyWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 512,
+      "context": "RecordFFmpegAPI",
+      "source": "Form",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 513,
+      "context": "RecordMiniWidget",
+      "source": "pause",
+      "comment": "",
+      "translation": "השהה"
+    },
+    {
+      "id": 514,
+      "context": "RecordMiniWidget",
+      "source": "save",
+      "comment": "",
+      "translation": "שמירה"
+    },
+    {
+      "id": 515,
+      "context": "RefreshDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 516,
+      "context": "RefreshDlg",
+      "source": "Decide later",
+      "comment": "",
+      "translation": "מאוחר יותר"
+    },
+    {
+      "id": 517,
+      "context": "RefreshDlg",
+      "source": "Desktop refresh",
+      "comment": "",
+      "translation": "אפס את שולחן העבודה של Android"
+    },
+    {
+      "id": 518,
+      "context": "RefreshDlg",
+      "source": "Restart now",
+      "comment": "",
+      "translation": "הפעלה מחדש כעת"
+    },
+    {
+      "id": 519,
+      "context": "RomDownloadProgressDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 520,
+      "context": "RomUpdateRemindDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 521,
+      "context": "RomUpdateRemindDlg",
+      "source": "Confirm",
+      "comment": "",
+      "translation": "כן"
+    },
+    {
+      "id": 522,
+      "context": "RomUpdateRemindDlg",
+      "source": "Do not prompt again",
+      "comment": "",
+      "translation": "אל תשאל שוב"
+    },
+    {
+      "id": 523,
+      "context": "RunEditkeyWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 524,
+      "context": "RunEditkeyWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 525,
+      "context": "RunEditkeyWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 526,
+      "context": "RunEditkeyWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 527,
+      "context": "SceneElementContainer",
+      "source": "Control the movement of the character",
+      "comment": "",
+      "translation": "שלוט בזווית הראייה של הדמות"
+    },
+    {
+      "id": 528,
+      "context": "SceneElementContainer",
+      "source": "Control the moving direction",
+      "comment": "",
+      "translation": "מאפשר למקלדת לשלוט בכיוון התנועה של המטרה"
+    },
+    {
+      "id": 529,
+      "context": "SceneElementContainer",
+      "source": "Control the view with the mouse cursor in FPS games",
+      "comment": "",
+      "translation": "הזזת הסמן כדי לשלוט בסיבוב זווית הראייה"
+    },
+    {
+      "id": 530,
+      "context": "SceneElementContainer",
+      "source": "Control view or cast skill in SLG+3D game, such as Identity V",
+      "comment": "",
+      "translation": "שלוט בזווית הראייה או הטל מיומנות במשחקי SLG+3D, כגון Identity V"
+    },
+    {
+      "id": 531,
+      "context": "SceneElementContainer",
+      "source": "Create a macro to perform multiple actions with one click",
+      "comment": "",
+      "translation": "הגדרת מקשי סקריפט לאפשור פעולות סדרתיות בלחיצת כפתור אחת בלבד"
+    },
+    {
+      "id": 532,
+      "context": "SceneElementContainer",
+      "source": "D-pad",
+      "comment": "",
+      "translation": "D-pad"
+    },
+    {
+      "id": 533,
+      "context": "SceneElementContainer",
+      "source": "Description: simulate the fingers to slide on the screen",
+      "comment": "",
+      "translation": "מדמה גלילת אצבעות"
+    },
+    {
+      "id": 534,
+      "context": "SceneElementContainer",
+      "source": "Fire",
+      "comment": "",
+      "translation": "אש / ירי"
+    },
+    {
+      "id": 535,
+      "context": "SceneElementContainer",
+      "source": "Fire a weapon with left click in FPS game, such as PUBG",
+      "comment": "",
+      "translation": "קליק שמאלי כדי לירות"
+    },
+    {
+      "id": 536,
+      "context": "SceneElementContainer",
+      "source": "G-sensor",
+      "comment": "",
+      "translation": "חיישן G"
+    },
+    {
+      "id": 537,
+      "context": "SceneElementContainer",
+      "source": "GPS simulation",
+      "comment": "",
+      "translation": "הדמיית GPS"
+    },
+    {
+      "id": 538,
+      "context": "SceneElementContainer",
+      "source": "Left Joystick",
+      "comment": "",
+      "translation": "ג'ויסטיק שמאלי"
+    },
+    {
+      "id": 539,
+      "context": "SceneElementContainer",
+      "source": "Move control",
+      "comment": "",
+      "translation": "בקרת תנועה"
+    },
+    {
+      "id": 540,
+      "context": "SceneElementContainer",
+      "source": "Move with right click in MOBA game",
+      "comment": "",
+      "translation": "קליק ימני בעכבר לשליטה בתנועת המטרה"
+    },
+    {
+      "id": 541,
+      "context": "SceneElementContainer",
+      "source": "Multistrike",
+      "comment": "",
+      "translation": "תקיפה מרובה"
+    },
+    {
+      "id": 542,
+      "context": "SceneElementContainer",
+      "source": "Opacity Setting!",
+      "comment": "",
+      "translation": "הגדרת שקיפות"
+    },
+    {
+      "id": 543,
+      "context": "SceneElementContainer",
+      "source": "Right Joystick",
+      "comment": "",
+      "translation": "ג'ויסטיק ימני"
+    },
+    {
+      "id": 544,
+      "context": "SceneElementContainer",
+      "source": "Script",
+      "comment": "",
+      "translation": "סקריפט"
+    },
+    {
+      "id": 545,
+      "context": "SceneElementContainer",
+      "source": "Set a GPS route and adjust walking speed in AR+LBS game, such as Pokemon Go",
+      "comment": "",
+      "translation": "מדמה תנועת GPS וירטואלית"
+    },
+    {
+      "id": 546,
+      "context": "SceneElementContainer",
+      "source": "Shooting mode",
+      "comment": "",
+      "translation": "מצב ירי"
+    },
+    {
+      "id": 547,
+      "context": "SceneElementContainer",
+      "source": "Simulate gravity sensor in motion sensor game, such as Doodle Jump",
+      "comment": "",
+      "translation": "מדמה חיישן כבידה למשחקים"
+    },
+    {
+      "id": 548,
+      "context": "SceneElementContainer",
+      "source": "Simulate the actions of two fingers to zoom in or zoom out the scene",
+      "comment": "",
+      "translation": "מדמה צביטת אצבעות (זום)"
+    },
+    {
+      "id": 549,
+      "context": "SceneElementContainer",
+      "source": "Single click",
+      "comment": "",
+      "translation": "לחיצה בודדת"
+    },
+    {
+      "id": 550,
+      "context": "SceneElementContainer",
+      "source": "Slide",
+      "comment": "",
+      "translation": "החלקה"
+    },
+    {
+      "id": 551,
+      "context": "SceneElementContainer",
+      "source": "Smart Cast skill in the direction of mouse cursor in MOBA game, such as Rov",
+      "comment": "",
+      "translation": "הטלת מיומנויות לכיוון הסמן"
+    },
+    {
+      "id": 552,
+      "context": "SceneElementContainer",
+      "source": "Tap the key to perform multiple strikes",
+      "comment": "",
+      "translation": "לחיצות סדרתיות"
+    },
+    {
+      "id": 553,
+      "context": "SceneElementContainer",
+      "source": "Tap the key to perform one click",
+      "comment": "",
+      "translation": "תקיפה או לחיצה"
+    },
+    {
+      "id": 554,
+      "context": "SceneElementContainer",
+      "source": "Utilize one key to execute multiple commands, for instance, press one key to open the bag, switch the equipment, and close the bag. ",
+      "comment": "",
+      "translation": "שימוש במקש אחד לביצוע פקודות מרובות"
+    },
+    {
+      "id": 555,
+      "context": "SceneElementContainer",
+      "source": "View control",
+      "comment": "",
+      "translation": "בקרת זווית ראייה"
+    },
+    {
+      "id": 556,
+      "context": "SceneElementContainer",
+      "source": "View control in 3D game, such as Honkai Impact 3",
+      "comment": "",
+      "translation": "סיבוב זוויות ראייה"
+    },
+    {
+      "id": 557,
+      "context": "SceneElementContainer",
+      "source": "Zoom",
+      "comment": "",
+      "translation": "התקרבות/התרחקות"
+    },
+    {
+      "id": 558,
+      "context": "SceneWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 559,
+      "context": "SceneWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 560,
+      "context": "SceneWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 561,
+      "context": "SceneWidget",
+      "source": "Scroll wheel",
+      "comment": "",
+      "translation": "גלגלת עכבר"
+    },
+    {
+      "id": 562,
+      "context": "SceneWidgetFactory",
+      "source": "Mouse left-button to shoot",
+      "comment": "",
+      "translation": "קליק שמאלי לירי"
+    },
+    {
+      "id": 563,
+      "context": "ScreenRecordDlgNew",
+      "source": "Are you sure to delete this record?",
+      "comment": "",
+      "translation": "האם אתה בטוח שברצונך למחוק סקריפט זה?"
+    },
+    {
+      "id": 564,
+      "context": "ScreenRecordDlgNew",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 565,
+      "context": "ScreenRecordDlgNew",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 566,
+      "context": "ScreenRecordDlgNew",
+      "source": "No Act found,\nScript not saved!",
+      "comment": "",
+      "translation": "אין פעולה, הסקריפט לא נשמר!"
+    },
+    {
+      "id": 567,
+      "context": "ScreenRecordDlgNew",
+      "source": "Please stop script record first!",
+      "comment": "",
+      "translation": "אנא עצור את מקליט המאקרו לפני היציאה."
+    },
+    {
+      "id": 568,
+      "context": "ScreenRecordDlgNew",
+      "source": "Record helper",
+      "comment": "",
+      "translation": "מקליט מאקרו"
+    },
+    {
+      "id": 569,
+      "context": "ScreenRecordDlgNew",
+      "source": "Script has been saved!",
+      "comment": "",
+      "translation": "הסקריפט נשמר!"
+    },
+    {
+      "id": 570,
+      "context": "ScreenRecordDlgNew",
+      "source": "Script is running, please try later!",
+      "comment": "",
+      "translation": "הסקריפט פועל, אנא נסה שוב מאוחר יותר!"
+    },
+    {
+      "id": 571,
+      "context": "ScreenRecordDlgNew",
+      "source": "my record ",
+      "comment": "",
+      "translation": "הקלטה"
+    },
+    {
+      "id": 572,
+      "context": "ScreenRecordScriptBoard",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 573,
+      "context": "ScreenRecordScriptBoard",
+      "source": "Please stop current script first!",
+      "comment": "",
+      "translation": "אנא עצור את הסקריפט תחילה!"
+    },
+    {
+      "id": 574,
+      "context": "ScreenRecordScriptItem",
+      "source": "Accelerate",
+      "comment": "",
+      "translation": "האצה"
+    },
+    {
+      "id": 575,
+      "context": "ScreenRecordScriptItem",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 576,
+      "context": "ScreenRecordScriptItem",
+      "source": "Customize",
+      "comment": "",
+      "translation": "מותאם אישית"
+    },
+    {
+      "id": 577,
+      "context": "ScreenRecordScriptItem",
+      "source": "Interval",
+      "comment": "",
+      "translation": "לולאה"
+    },
+    {
+      "id": 578,
+      "context": "ScreenRecordScriptItem",
+      "source": "Repeat",
+      "comment": "",
+      "translation": "לולאה"
+    },
+    {
+      "id": 579,
+      "context": "ScreenRecordScriptItem",
+      "source": "Repeat till manually paused",
+      "comment": "",
+      "translation": "חזור על הפעולה עד ללחיצה על כפתור העצירה"
+    },
+    {
+      "id": 580,
+      "context": "ScreenRecordScriptItem",
+      "source": "Reset",
+      "comment": "",
+      "translation": "איפוס"
+    },
+    {
+      "id": 581,
+      "context": "ScreenRecordScriptItem",
+      "source": "Save",
+      "comment": "",
+      "translation": "שמירה"
+    },
+    {
+      "id": 582,
+      "context": "ScreenRecordScriptItem",
+      "source": "h",
+      "comment": "",
+      "translation": "שעות"
+    },
+    {
+      "id": 583,
+      "context": "ScreenRecordScriptItem",
+      "source": "hold up",
+      "comment": "",
+      "translation": "מרווח"
+    },
+    {
+      "id": 584,
+      "context": "ScreenRecordScriptItem",
+      "source": "min",
+      "comment": "",
+      "translation": "דקות"
+    },
+    {
+      "id": 585,
+      "context": "ScreenRecordScriptItem",
+      "source": "restart",
+      "comment": "",
+      "translation": "הפעלה מחדש"
+    },
+    {
+      "id": 586,
+      "context": "ScreenRecordScriptItem",
+      "source": "sec",
+      "comment": "",
+      "translation": "שניות"
+    },
+    {
+      "id": 587,
+      "context": "ScreenRecordScriptItem",
+      "source": "times",
+      "comment": "",
+      "translation": "פעמים"
+    },
+    {
+      "id": 588,
+      "context": "ScreenVideoRecordDlg",
+      "source": "Form",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 589,
+      "context": "ScriptCombineDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 590,
+      "context": "ScriptCombineDlg",
+      "source": "Save",
+      "comment": "",
+      "translation": "שמירה"
+    },
+    {
+      "id": 591,
+      "context": "ScriptCombineItem",
+      "source": "Accelerate",
+      "comment": "",
+      "translation": "האצה"
+    },
+    {
+      "id": 592,
+      "context": "ScriptCombineItem",
+      "source": "sec",
+      "comment": "",
+      "translation": "שניות"
+    },
+    {
+      "id": 593,
+      "context": "ScriptCombineItem",
+      "source": "times",
+      "comment": "",
+      "translation": "פעמים"
+    },
+    {
+      "id": 594,
+      "context": "ScriptExportDlg",
+      "source": "OK",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 595,
+      "context": "ScriptWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 596,
+      "context": "ScriptWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 597,
+      "context": "ScriptWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 598,
+      "context": "ScriptWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 599,
+      "context": "ScriptWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 600,
+      "context": "ScriptWidget",
+      "source": "Set a key",
+      "comment": "",
+      "translation": "הגדר מקש"
+    },
+    {
+      "id": 601,
+      "context": "ScriptWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 602,
+      "context": "SettingController",
+      "source": "Are you sure to reset?",
+      "comment": "",
+      "translation": "האם אתה בטוח שברצונך לשחזר להגדרות ברירת המחדל?"
+    },
+    {
+      "id": 603,
+      "context": "SettingController",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 604,
+      "context": "SettingController",
+      "source": "Ok",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 605,
+      "context": "SettingController",
+      "source": "Saving data in progress. To avoid data corruption, please try again later.",
+      "comment": "",
+      "translation": "שמירה מתבצעת. כדי למנוע השחתת נתונים, אנא נסה שוב מאוחר יותר."
+    },
+    {
+      "id": 606,
+      "context": "SettingDataManager",
+      "source": "Cleanup",
+      "comment": "",
+      "translation": "סגור את כל האפליקציות"
+    },
+    {
+      "id": 607,
+      "context": "SettingDataManager",
+      "source": "Controller",
+      "comment": "",
+      "translation": "בקר משחק"
+    },
+    {
+      "id": 608,
+      "context": "SettingDataManager",
+      "source": "Menu",
+      "comment": "",
+      "translation": "תפריט"
+    },
+    {
+      "id": 609,
+      "context": "SettingDataManager",
+      "source": "Mute",
+      "comment": "",
+      "translation": "השתק"
+    },
+    {
+      "id": 610,
+      "context": "SettingDataManager",
+      "source": "Shake",
+      "comment": "",
+      "translation": "נער"
+    },
+    {
+      "id": 611,
+      "context": "SettingDlg",
+      "source": "After disabling, the mouse shooting will be more accurate, only in the fire mode",
+      "comment": "",
+      "translation": "לאחר הביטול, ירי העכבר יהיה מדויק יותר, רק במצב ירי"
+    },
+    {
+      "id": 612,
+      "context": "SettingDlg",
+      "source": "Balloon tips notification",
+      "comment": "",
+      "translation": "התראות טיפים מוקפצים"
+    },
+    {
+      "id": 613,
+      "context": "SettingDlg",
+      "source": "Boot Root",
+      "comment": "",
+      "translation": "Root"
+    },
+    {
+      "id": 614,
+      "context": "SettingDlg",
+      "source": "Boot automatically",
+      "comment": "",
+      "translation": "הפעל בעת הפעלת המחשב"
+    },
+    {
+      "id": 615,
+      "context": "SettingDlg",
+      "source": "Boss key",
+      "comment": "",
+      "translation": "מקש בוס (Boss key)"
+    },
+    {
+      "id": 616,
+      "context": "SettingDlg",
+      "source": "Brand",
+      "comment": "",
+      "translation": "מותג טלפון נייד"
+    },
+    {
+      "id": 617,
+      "context": "SettingDlg",
+      "source": "CPU",
+      "comment": "",
+      "translation": "CPU"
+    },
+    {
+      "id": 618,
+      "context": "SettingDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 619,
+      "context": "SettingDlg",
+      "source": "Clean disk space",
+      "comment": "",
+      "translation": "נקה שטח דיסק"
+    },
+    {
+      "id": 620,
+      "context": "SettingDlg",
+      "source": "Clean up",
+      "comment": "",
+      "translation": "נקה שטח דיסק"
+    },
+    {
+      "id": 621,
+      "context": "SettingDlg",
+      "source": "Compatibility mode(OpenGL)",
+      "comment": "",
+      "translation": "תואם (OpenGL)"
+    },
+    {
+      "id": 622,
+      "context": "SettingDlg",
+      "source": "Confirm",
+      "comment": "",
+      "translation": "כן"
+    },
+    {
+      "id": 623,
+      "context": "SettingDlg",
+      "source": "Create",
+      "comment": "",
+      "translation": "צור"
+    },
+    {
+      "id": 624,
+      "context": "SettingDlg",
+      "source": "Customize",
+      "comment": "",
+      "translation": "מותאם אישית"
+    },
+    {
+      "id": 625,
+      "context": "SettingDlg",
+      "source": "Decide later",
+      "comment": "",
+      "translation": "מאוחר יותר"
+    },
+    {
+      "id": 626,
+      "context": "SettingDlg",
+      "source": "Display performance tuning tips",
+      "comment": "",
+      "translation": "טיפים לאופטימיזציית ביצועים"
+    },
+    {
+      "id": 627,
+      "context": "SettingDlg",
+      "source": "Exit directly",
+      "comment": "",
+      "translation": "צא ישירות"
+    },
+    {
+      "id": 628,
+      "context": "SettingDlg",
+      "source": "Exit the emulator options",
+      "comment": "",
+      "translation": "אפשרויות היציאה מהאמולטור"
+    },
+    {
+      "id": 629,
+      "context": "SettingDlg",
+      "source": "Fixed Vertical landscape display",
+      "comment": "",
+      "translation": "מצב טלפון נייד"
+    },
+    {
+      "id": 630,
+      "context": "SettingDlg",
+      "source": "Fixed landscape display",
+      "comment": "",
+      "translation": "מצב תצוגה לרוחב"
+    },
+    {
+      "id": 631,
+      "context": "SettingDlg",
+      "source": "Fixed window size",
+      "comment": "",
+      "translation": "גודל חלון קבוע"
+    },
+    {
+      "id": 632,
+      "context": "SettingDlg",
+      "source": "Frames",
+      "comment": "",
+      "translation": "הגדרות פריימים (FPS)"
+    },
+    {
+      "id": 633,
+      "context": "SettingDlg",
+      "source": "Graphics rendering mode",
+      "comment": "",
+      "translation": "מצב רינדור גרפיקה"
+    },
+    {
+      "id": 634,
+      "context": "SettingDlg",
+      "source": "Height",
+      "comment": "",
+      "translation": "גובה"
+    },
+    {
+      "id": 635,
+      "context": "SettingDlg",
+      "source": "High",
+      "comment": "",
+      "translation": "גבוה"
+    },
+    {
+      "id": 636,
+      "context": "SettingDlg",
+      "source": "IMEI",
+      "comment": "",
+      "translation": "IMEI"
+    },
+    {
+      "id": 637,
+      "context": "SettingDlg",
+      "source": "Language",
+      "comment": "",
+      "translation": "שפה"
+    },
+    {
+      "id": 638,
+      "context": "SettingDlg",
+      "source": "Low",
+      "comment": "",
+      "translation": "נמוך"
+    },
+    {
+      "id": 639,
+      "context": "SettingDlg",
+      "source": "Manufacturer",
+      "comment": "",
+      "translation": "יצרן טלפון נייד"
+    },
+    {
+      "id": 640,
+      "context": "SettingDlg",
+      "source": "Memory limit range: 600-4096MB",
+      "comment": "",
+      "translation": "טווח מגבלת זיכרון: 600-4096MB"
+    },
+    {
+      "id": 641,
+      "context": "SettingDlg",
+      "source": "Microphone",
+      "comment": "",
+      "translation": "מיקרופון"
+    },
+    {
+      "id": 642,
+      "context": "SettingDlg",
+      "source": "Minimize to the tray",
+      "comment": "",
+      "translation": "מזער למגש המערכת"
+    },
+    {
+      "id": 643,
+      "context": "SettingDlg",
+      "source": "Model",
+      "comment": "",
+      "translation": "דגם טלפון נייד"
+    },
+    {
+      "id": 644,
+      "context": "SettingDlg",
+      "source": "Mouse acceleration",
+      "comment": "",
+      "translation": "תאוצת עכבר"
+    },
+    {
+      "id": 645,
+      "context": "SettingDlg",
+      "source": "OK",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 646,
+      "context": "SettingDlg",
+      "source": "Pause",
+      "comment": "",
+      "translation": "השהה"
+    },
+    {
+      "id": 647,
+      "context": "SettingDlg",
+      "source": "Performance Setting",
+      "comment": "",
+      "translation": "הגדרות ביצועים"
+    },
+    {
+      "id": 648,
+      "context": "SettingDlg",
+      "source": "Phone",
+      "comment": "",
+      "translation": "טלפון נייד"
+    },
+    {
+      "id": 649,
+      "context": "SettingDlg",
+      "source": "Phone Number",
+      "comment": "",
+      "translation": "מספר טלפון נייד"
+    },
+    {
+      "id": 650,
+      "context": "SettingDlg",
+      "source": "Please enable VT to set CPU number over 1.",
+      "comment": "",
+      "translation": "אנא הפעל את VT כדי להשתמש ביותר ממעבד אחד."
+    },
+    {
+      "id": 651,
+      "context": "SettingDlg",
+      "source": "Popup prompt",
+      "comment": "",
+      "translation": "התראה מוקפצת"
+    },
+    {
+      "id": 652,
+      "context": "SettingDlg",
+      "source": "RAM",
+      "comment": "",
+      "translation": "זיכרון"
+    },
+    {
+      "id": 653,
+      "context": "SettingDlg",
+      "source": "Record helper",
+      "comment": "",
+      "translation": "מקליט מאקרו"
+    },
+    {
+      "id": 654,
+      "context": "SettingDlg",
+      "source": "Restart now",
+      "comment": "",
+      "translation": "הפעלה מחדש כעת"
+    },
+    {
+      "id": 655,
+      "context": "SettingDlg",
+      "source": "Save Changes",
+      "comment": "",
+      "translation": "שמור הגדרות"
+    },
+    {
+      "id": 656,
+      "context": "SettingDlg",
+      "source": "Save pos and size",
+      "comment": "",
+      "translation": "זכור גודל ומיקום"
+    },
+    {
+      "id": 657,
+      "context": "SettingDlg",
+      "source": "Settings you have changed need application restart to take effect.",
+      "comment": "",
+      "translation": "שינית את ההגדרות שלך. אנא הפעל מחדש את Nox כדי שהן ייכנסו לתוקף."
+    },
+    {
+      "id": 658,
+      "context": "SettingDlg",
+      "source": "Shortcuts",
+      "comment": "",
+      "translation": "הגדרות מקשי קיצור"
+    },
+    {
+      "id": 659,
+      "context": "SettingDlg",
+      "source": "Shortcuts conflict!",
+      "comment": "",
+      "translation": "התנגשות מקשי קיצור!"
+    },
+    {
+      "id": 660,
+      "context": "SettingDlg",
+      "source": "Soft keyboard open",
+      "comment": "",
+      "translation": "מקלדת וירטואלית"
+    },
+    {
+      "id": 661,
+      "context": "SettingDlg",
+      "source": "Speed mode(Directx)",
+      "comment": "",
+      "translation": "מצב בסיסי (DirectX)"
+    },
+    {
+      "id": 662,
+      "context": "SettingDlg",
+      "source": "Suggest setting DPI between 150 and 480",
+      "comment": "",
+      "translation": "ה-DPI המומלץ הוא 150-480"
+    },
+    {
+      "id": 663,
+      "context": "SettingDlg",
+      "source": "Suitable for high speed mode: computer, if compatibility mode cannot be used, try switching",
+      "comment": "",
+      "translation": "אם נכשלת ההפעלה במצב תאימות, תוכל לנסות לעבור למצב מהירות"
+    },
+    {
+      "id": 664,
+      "context": "SettingDlg",
+      "source": "System Settings",
+      "comment": "",
+      "translation": "הגדרות מערכת"
+    },
+    {
+      "id": 665,
+      "context": "SettingDlg",
+      "source": "Tablet",
+      "comment": "",
+      "translation": "טאבלט"
+    },
+    {
+      "id": 666,
+      "context": "SettingDlg",
+      "source": "To download",
+      "comment": "",
+      "translation": "להורדה"
+    },
+    {
+      "id": 667,
+      "context": "SettingDlg",
+      "source": "Turn off mouse acceleration in Windows",
+      "comment": "",
+      "translation": "כבה תאוצת עכבר ב-Windows"
+    },
+    {
+      "id": 668,
+      "context": "SettingDlg",
+      "source": "Video Record",
+      "comment": "",
+      "translation": "מקליט וידאו"
+    },
+    {
+      "id": 669,
+      "context": "SettingDlg",
+      "source": "Virtual buttons at the bottom",
+      "comment": "",
+      "translation": "כפתור וירטואלי בתחתית"
+    },
+    {
+      "id": 670,
+      "context": "SettingDlg",
+      "source": "Virtual key",
+      "comment": "",
+      "translation": "כפתור וירטואלי"
+    },
+    {
+      "id": 671,
+      "context": "SettingDlg",
+      "source": "When the emulator fails to input text, try opening the soft keyboard",
+      "comment": "",
+      "translation": "הפעל את המקלדת הווירטואלית של Android אם יש לך בעיה בהזנת טקסט באמצעות המקלדת ב-NoxPlayer"
+    },
+    {
+      "id": 672,
+      "context": "SettingDlg",
+      "source": "Width",
+      "comment": "",
+      "translation": "רוחב"
+    },
+    {
+      "id": 673,
+      "context": "SettingDlg",
+      "source": "Window size and location",
+      "comment": "",
+      "translation": "גודל חלון ומיקום"
+    },
+    {
+      "id": 674,
+      "context": "SettingDlg",
+      "source": "XXXXXX,please disable it if there's problem encountered with other apps.",
+      "comment": "",
+      "translation": "Brawl Stars, אנא השבת אותו אם קיימת בעיה באפליקציות אחרות."
+    },
+    {
+      "id": 675,
+      "context": "SettingDlg",
+      "source": "automatically mute when hiding",
+      "comment": "",
+      "translation": "השתק אוטומטית בעת הסתרה"
+    },
+    {
+      "id": 676,
+      "context": "SettingDlg",
+      "source": "core",
+      "comment": "",
+      "translation": "ליבה"
+    },
+    {
+      "id": 677,
+      "context": "SettingDlg",
+      "source": "customize",
+      "comment": "",
+      "translation": "מותאם אישית"
+    },
+    {
+      "id": 678,
+      "context": "SettingDlg",
+      "source": "default model",
+      "comment": "",
+      "translation": "דגם ברירת מחדל"
+    },
+    {
+      "id": 679,
+      "context": "SettingDlg",
+      "source": "good compatibility, less occupation of resources, suitable for low allocation of computers",
+      "comment": "",
+      "translation": "תאימות טובה, מאפשרת הרצה חלקה של רוב המשחקים"
+    },
+    {
+      "id": 680,
+      "context": "SettingDlg",
+      "source": "save recording",
+      "comment": "",
+      "translation": "שמור הקלטה"
+    },
+    {
+      "id": 681,
+      "context": "SettingDlg",
+      "source": "start/resume recording",
+      "comment": "",
+      "translation": "התחל/המשך הקלטה"
+    },
+    {
+      "id": 682,
+      "context": "ShareFloderTipPage",
+      "source": "Dialog",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 683,
+      "context": "ShareFolderDlg",
+      "source": "Files dragged to player will be transfered to Android",
+      "comment": "",
+      "translation": "קבצים שייגררו לנגן יועברו ל-Android."
+    },
+    {
+      "id": 684,
+      "context": "ShareFolderDlg",
+      "source": "Later",
+      "comment": "",
+      "translation": "מאוחר יותר"
+    },
+    {
+      "id": 685,
+      "context": "ShareFolderDlg",
+      "source": "OK",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 686,
+      "context": "ShareFolderDlg",
+      "source": "Please select share dir",
+      "comment": "",
+      "translation": "אנא בחר תיקיית שיתוף"
+    },
+    {
+      "id": 687,
+      "context": "ShareFolderDlg",
+      "source": "Restart now",
+      "comment": "",
+      "translation": "הפעלה מחדש כעת"
+    },
+    {
+      "id": 688,
+      "context": "ShareFolderDlg",
+      "source": "Shared Folder",
+      "comment": "",
+      "translation": "עוזר הקבצים"
+    },
+    {
+      "id": 689,
+      "context": "ShareFolderDlg",
+      "source": "The new shared directory will take effect after reboot.",
+      "comment": "",
+      "translation": "השינויים ייכנסו לתוקף לאחר הפעלה מחדש של NoxPlayer"
+    },
+    {
+      "id": 690,
+      "context": "ShareFolderDlg",
+      "source": "The shared directory cannot select the root directory.",
+      "comment": "",
+      "translation": "תיקיית השיתוף אינה יכולה להיות תיקיית השורש, אנא בחר תיקייה אחרת"
+    },
+    {
+      "id": 691,
+      "context": "ShareFolderDlg",
+      "source": "There is Chinese in shared directory, please select again.",
+      "comment": "",
+      "translation": "נתיב תיקיית השיתוף אינו יכול להכיל סינית, אנא בחר תיקייה אחרת"
+    },
+    {
+      "id": 692,
+      "context": "SharefolderDialog",
+      "source": "APK File",
+      "comment": "",
+      "translation": "קובץ APK"
+    },
+    {
+      "id": 693,
+      "context": "SharefolderDialog",
+      "source": "Dialog",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 694,
+      "context": "SharefolderDialog",
+      "source": "Image File",
+      "comment": "",
+      "translation": "קובץ תמונה"
+    },
+    {
+      "id": 695,
+      "context": "SharefolderDialog",
+      "source": "Modify",
+      "comment": "",
+      "translation": "עיון"
+    },
+    {
+      "id": 696,
+      "context": "SharefolderDialog",
+      "source": "OK",
+      "comment": "",
+      "translation": "אישור"
+    },
+    {
+      "id": 697,
+      "context": "SharefolderDialog",
+      "source": "Open pc dir",
+      "comment": "",
+      "translation": "פתח תיקיית מחשב"
+    },
+    {
+      "id": 698,
+      "context": "SharefolderDialog",
+      "source": "Open phone dir",
+      "comment": "",
+      "translation": "פתח תיקיית NoxPlayer"
+    },
+    {
+      "id": 699,
+      "context": "SharefolderDialog",
+      "source": "Other File",
+      "comment": "",
+      "translation": "קובץ אחר"
+    },
+    {
+      "id": 700,
+      "context": "SharefolderDialog",
+      "source": "PC Share Path",
+      "comment": "",
+      "translation": "נתיב שמירת קבצים במחשב"
+    },
+    {
+      "id": 701,
+      "context": "SharefolderDialog",
+      "source": "Please select share dir",
+      "comment": "",
+      "translation": "אנא בחר תיקיית שיתוף"
+    },
+    {
+      "id": 702,
+      "context": "SharefolderDialog",
+      "source": "Reboot",
+      "comment": "",
+      "translation": "הפעלה מחדש"
+    },
+    {
+      "id": 703,
+      "context": "SharefolderDialog",
+      "source": "Share Folder",
+      "comment": "",
+      "translation": "העברת קבצים"
+    },
+    {
+      "id": 704,
+      "context": "SharefolderDialog",
+      "source": "The new shared directory will take effect after reboot.",
+      "comment": "",
+      "translation": "השינויים ייכנסו לתוקף לאחר הפעלה מחדש של NoxPlayer"
+    },
+    {
+      "id": 705,
+      "context": "SharefolderDialog",
+      "source": "The shared directory cannot select the root directory.",
+      "comment": "",
+      "translation": "תיקיית השיתוף אינה יכולה להיות תיקיית השורש, אנא בחר תיקייה אחרת"
+    },
+    {
+      "id": 706,
+      "context": "SharefolderDialog",
+      "source": "There is Chinese in shared directory, please select again.",
+      "comment": "",
+      "translation": "נתיב תיקיית השיתוף אינו יכול להכיל סינית, אנא בחר תיקייה אחרת"
+    },
+    {
+      "id": 707,
+      "context": "SlideEditKeyWidget",
+      "source": "Adjust the casting range to match the skill range",
+      "comment": "",
+      "translation": "התאם את טווח ההטלה לטווח המיומנות"
+    },
+    {
+      "id": 708,
+      "context": "SlideEditKeyWidget",
+      "source": "Click the key to cast a skill in the direction of mouse cursor",
+      "comment": "",
+      "translation": "לחץ על המקש כדי להטיל מיומנות לכיוון סמן העכבר"
+    },
+    {
+      "id": 709,
+      "context": "SlideEditKeyWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 710,
+      "context": "SlideEditKeyWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 711,
+      "context": "SlideEditKeyWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 712,
+      "context": "SlideEditKeyWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 713,
+      "context": "SlideEditKeyWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 714,
+      "context": "SlideEditKeyWidget",
+      "source": "Set a key",
+      "comment": "",
+      "translation": "הגדר מקש"
+    },
+    {
+      "id": 715,
+      "context": "SlideEditKeyWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 716,
+      "context": "SliderMoveWidget",
+      "source": "Click to edit",
+      "comment": "",
+      "translation": "לחץ לעריכה"
+    },
+    {
+      "id": 717,
+      "context": "SliderMoveWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 718,
+      "context": "SliderMoveWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 719,
+      "context": "SliderMoveWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 720,
+      "context": "SliderMoveWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 721,
+      "context": "SliderMoveWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 722,
+      "context": "SliderMoveWidget",
+      "source": "Set a key",
+      "comment": "",
+      "translation": "הגדר מקש"
+    },
+    {
+      "id": 723,
+      "context": "SliderMoveWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 724,
+      "context": "SliderSetWidget",
+      "source": "Auto cast",
+      "comment": "",
+      "translation": "הטלה מהירה"
+    },
+    {
+      "id": 725,
+      "context": "SliderSetWidget",
+      "source": "Cast skill when press the key",
+      "comment": "",
+      "translation": "הטל מיומנות בלחיצה על המקש"
+    },
+    {
+      "id": 726,
+      "context": "SliderSetWidget",
+      "source": "Cast skill when release the key",
+      "comment": "",
+      "translation": "הטל מיומנות בשחרור המקש"
+    },
+    {
+      "id": 727,
+      "context": "SliderSetWidget",
+      "source": "Long press to move toward the direction of skill casting",
+      "comment": "",
+      "translation": "לחיצה ארוכה לתנועה לכיוון הטלת המיומנות"
+    },
+    {
+      "id": 728,
+      "context": "SliderSetWidget",
+      "source": "Manual cast",
+      "comment": "",
+      "translation": "הטלה ידנית"
+    },
+    {
+      "id": 729,
+      "context": "SliderSetWidget",
+      "source": "Other settings",
+      "comment": "",
+      "translation": "הגדרות אחרות"
+    },
+    {
+      "id": 730,
+      "context": "SliderSetWidget",
+      "source": "Press the key again or left click to cast skill",
+      "comment": "",
+      "translation": "לחץ על המקש שוב או קליק שמאלי כדי להטיל מיומנות"
+    },
+    {
+      "id": 731,
+      "context": "SliderSetWidget",
+      "source": "Quick cast",
+      "comment": "",
+      "translation": "הטלה אוטומטית"
+    },
+    {
+      "id": 732,
+      "context": "SliderSetWidget",
+      "source": "Set a new key to cancel casting",
+      "comment": "",
+      "translation": "הגדר מקש חדש לביטול ההטלה"
+    },
+    {
+      "id": 733,
+      "context": "SliderSetWidget",
+      "source": "Skill settings",
+      "comment": "",
+      "translation": "הגדרות מיומנות"
+    },
+    {
+      "id": 734,
+      "context": "SliderSetWidget",
+      "source": "Stop movement after skill casting",
+      "comment": "",
+      "translation": "עצור תנועה לאחר הטלת מיומנות"
+    },
+    {
+      "id": 735,
+      "context": "SplashScreen",
+      "source": "100% Compatible",
+      "comment": "",
+      "translation": "תאימות 100%"
+    },
+    {
+      "id": 736,
+      "context": "SplashScreen",
+      "source": "Bigger screen, Easier operation",
+      "comment": "",
+      "translation": "תצוגת מסך גדולה לשליטה חלקה"
+    },
+    {
+      "id": 737,
+      "context": "SplashScreen",
+      "source": "Form",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 738,
+      "context": "SplashScreen",
+      "source": "LOADING",
+      "comment": "",
+      "translation": "טוען"
+    },
+    {
+      "id": 739,
+      "context": "SplashScreen",
+      "source": "Stable and efficient",
+      "comment": "",
+      "translation": "יציב, יעיל ועוצמתי"
+    },
+    {
+      "id": 740,
+      "context": "SplashScreenGarena",
+      "source": "Dialog",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 741,
+      "context": "SplashScreenGarena",
+      "source": "LOADING",
+      "comment": "",
+      "translation": "טוען"
+    },
+    {
+      "id": 742,
+      "context": "StateNotDownload",
+      "source": "Download",
+      "comment": "",
+      "translation": "הורדה"
+    },
+    {
+      "id": 743,
+      "context": "SynchronousMiniWidget",
+      "source": "Pause",
+      "comment": "",
+      "translation": "השהה"
+    },
+    {
+      "id": 744,
+      "context": "SystemInfoDialog",
+      "source": "Android Version",
+      "comment": "",
+      "translation": "גרסת Android"
+    },
+    {
+      "id": 745,
+      "context": "SystemInfoDialog",
+      "source": "App Path",
+      "comment": "",
+      "translation": "נתיב התקנה"
+    },
+    {
+      "id": 746,
+      "context": "SystemInfoDialog",
+      "source": "Available Memory",
+      "comment": "",
+      "translation": "זיכרון פנוי"
+    },
+    {
+      "id": 747,
+      "context": "SystemInfoDialog",
+      "source": "CPU",
+      "comment": "",
+      "translation": "CPU"
+    },
+    {
+      "id": 748,
+      "context": "SystemInfoDialog",
+      "source": "CPU Number",
+      "comment": "",
+      "translation": "מספר ליבות מעבד"
+    },
+    {
+      "id": 749,
+      "context": "SystemInfoDialog",
+      "source": "CPU VT",
+      "comment": "",
+      "translation": "CPU VT"
+    },
+    {
+      "id": 750,
+      "context": "SystemInfoDialog",
+      "source": "Copy And Close",
+      "comment": "",
+      "translation": "העתק וסגור"
+    },
+    {
+      "id": 751,
+      "context": "SystemInfoDialog",
+      "source": "Dialog",
+      "comment": "",
+      "translation": ""
+    },
+    {
+      "id": 752,
+      "context": "SystemInfoDialog",
+      "source": "Disabled",
+      "comment": "",
+      "translation": "מושבת"
+    },
+    {
+      "id": 753,
+      "context": "SystemInfoDialog",
+      "source": "Discrete Graphics",
+      "comment": "",
+      "translation": "כרטיס מסך ייעודי"
+    },
+    {
+      "id": 754,
+      "context": "SystemInfoDialog",
+      "source": "Disk",
+      "comment": "",
+      "translation": "שטח דיסק של האמולטור"
+    },
+    {
+      "id": 755,
+      "context": "SystemInfoDialog",
+      "source": "Free",
+      "comment": "",
+      "translation": "פנוי"
+    },
+    {
+      "id": 756,
+      "context": "SystemInfoDialog",
+      "source": "Get log",
+      "comment": "",
+      "translation": "חלץ יומן (Log)"
+    },
+    {
+      "id": 757,
+      "context": "SystemInfoDialog",
+      "source": "Help",
+      "comment": "",
+      "translation": "עזרה"
+    },
+    {
+      "id": 758,
+      "context": "SystemInfoDialog",
+      "source": "Log Path",
+      "comment": "",
+      "translation": "נתיב יומן (Log)"
+    },
+    {
+      "id": 759,
+      "context": "SystemInfoDialog",
+      "source": "Nox Version",
+      "comment": "",
+      "translation": "גרסת Nox"
+    },
+    {
+      "id": 760,
+      "context": "SystemInfoDialog",
+      "source": "OS Version",
+      "comment": "",
+      "translation": "גרסת מערכת"
+    },
+    {
+      "id": 761,
+      "context": "SystemInfoDialog",
+      "source": "Open",
+      "comment": "",
+      "translation": "פתח"
+    },
+    {
+      "id": 762,
+      "context": "SystemInfoDialog",
+      "source": "OpenGL Renderer",
+      "comment": "",
+      "translation": "רינדור OpenGL"
+    },
+    {
+      "id": 763,
+      "context": "SystemInfoDialog",
+      "source": "OpenGL Version",
+      "comment": "",
+      "translation": "גרסת OpenGL"
+    },
+    {
+      "id": 764,
+      "context": "SystemInfoDialog",
+      "source": "Rendering Mode",
+      "comment": "",
+      "translation": "מצב רינדור"
+    },
+    {
+      "id": 765,
+      "context": "SystemInfoDialog",
+      "source": "System Specs",
+      "comment": "",
+      "translation": "מידע מערכת"
+    },
+    {
+      "id": 766,
+      "context": "SystemInfoDialog",
+      "source": "Total",
+      "comment": "",
+      "translation": "סך הכל "
+    },
+    {
+      "id": 767,
+      "context": "SystemInfoDialog",
+      "source": "Total Memory",
+      "comment": "",
+      "translation": "סך הזיכרון"
+    },
+    {
+      "id": 768,
+      "context": "SystemInfoDialog",
+      "source": "Video Card",
+      "comment": "",
+      "translation": "כרטיס מסך"
+    },
+    {
+      "id": 769,
+      "context": "SystemMessageController",
+      "source": "Have started to download",
+      "comment": "",
+      "translation": "מוריד"
+    },
+    {
+      "id": 770,
+      "context": "SystemToolElementWidget",
+      "source": "DownLoad",
+      "comment": "",
+      "translation": "הורדה"
+    },
+    {
+      "id": 771,
+      "context": "SystemToolElementWidget",
+      "source": "Open",
+      "comment": "",
+      "translation": "פתח"
+    },
+    {
+      "id": 772,
+      "context": "SystemToolWidget",
+      "source": "System Tool",
+      "comment": "",
+      "translation": "כלי מערכת"
+    },
+    {
+      "id": 773,
+      "context": "TabCustomItem",
+      "source": "Copy",
+      "comment": "",
+      "translation": "העתקה"
+    },
+    {
+      "id": 774,
+      "context": "TabCustomItem",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 775,
+      "context": "TabCustomItem",
+      "source": "Edit",
+      "comment": "",
+      "translation": "עריכה"
+    },
+    {
+      "id": 776,
+      "context": "UploadDlg",
+      "source": "All Apk File",
+      "comment": "",
+      "translation": "כל קובצי ה-APK"
+    },
+    {
+      "id": 777,
+      "context": "UploadDlg",
+      "source": "All Img File",
+      "comment": "",
+      "translation": "כל קובצי התמונה"
+    },
+    {
+      "id": 778,
+      "context": "UploadDlg",
+      "source": "All Other File",
+      "comment": "",
+      "translation": "כל שאר הקבצים"
+    },
+    {
+      "id": 779,
+      "context": "UploadDlg",
+      "source": "Apk File",
+      "comment": "",
+      "translation": "קובץ APK"
+    },
+    {
+      "id": 780,
+      "context": "UploadDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 781,
+      "context": "UploadDlg",
+      "source": "Close",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 782,
+      "context": "UploadDlg",
+      "source": "Drop files into simulator to quickly import",
+      "comment": "",
+      "translation": "גרור ושחרר קבצים לחלון Nox כדי לייבא"
+    },
+    {
+      "id": 783,
+      "context": "UploadDlg",
+      "source": "Export File",
+      "comment": "",
+      "translation": "ייצוא קבצים"
+    },
+    {
+      "id": 784,
+      "context": "UploadDlg",
+      "source": "File Manager",
+      "comment": "",
+      "translation": "ניהול קבצים"
+    },
+    {
+      "id": 785,
+      "context": "UploadDlg",
+      "source": "Img File",
+      "comment": "",
+      "translation": "קובץ תמונה"
+    },
+    {
+      "id": 786,
+      "context": "UploadDlg",
+      "source": "Import File",
+      "comment": "",
+      "translation": "ייבוא קבצים"
+    },
+    {
+      "id": 787,
+      "context": "UploadDlg",
+      "source": "Open Apk Folder",
+      "comment": "",
+      "translation": "פתח תיקיית APK"
+    },
+    {
+      "id": 788,
+      "context": "UploadDlg",
+      "source": "Open Img Folder",
+      "comment": "",
+      "translation": "פתח תיקיית תמונות"
+    },
+    {
+      "id": 789,
+      "context": "UploadDlg",
+      "source": "Open Local Shared Folder",
+      "comment": "",
+      "translation": "פתח תיקיות משותxxx xxxxxxx"
+    },
+    {
+      "id": 790,
+      "context": "UploadDlg",
+      "source": "Open other Folder",
+      "comment": "",
+      "translation": "פתח תיקייה אחרת"
+    },
+    {
+      "id": 791,
+      "context": "UploadDlg",
+      "source": "Other File",
+      "comment": "",
+      "translation": "קובץ אחר"
+    },
+    {
+      "id": 792,
+      "context": "UploadDlg",
+      "source": "close",
+      "comment": "",
+      "translation": "סגור"
+    },
+    {
+      "id": 793,
+      "context": "VTHelpDialog",
+      "source": "(Remember open VT in BIOS)",
+      "comment": "",
+      "translation": "(זכור להפעיל VT בהגדרות ה-BIOS לאחר הפעלה מחדש)"
+    },
+    {
+      "id": 794,
+      "context": "VTHelpDialog",
+      "source": "1.Enter BIOS Settings：Quickly press F1 when restart.",
+      "comment": "",
+      "translation": "1. היכנס להגדרות BIOS: לחץ על F1 בזמן שהמערכת עולה."
+    },
+    {
+      "id": 795,
+      "context": "VTHelpDialog",
+      "source": "2.Find Intel Virtualization Technology Sets the status to Enable",
+      "comment": "",
+      "translation": "2. מצא את Intel Virtualization Technology ושנה את המצב ל-Enable (מופעל)."
+    },
+    {
+      "id": 796,
+      "context": "VTHelpDialog",
+      "source": "3.Restart after settings.",
+      "comment": "",
+      "translation": "3. הפעל מחדש את המחשב לאחר הפעלת VT."
+    },
+    {
+      "id": 797,
+      "context": "VTHelpDialog",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 798,
+      "context": "VTHelpDialog",
+      "source": "Confirm",
+      "comment": "",
+      "translation": "כן"
+    },
+    {
+      "id": 799,
+      "context": "VTHelpDialog",
+      "source": "Enable VT,Let your NOX played 10 times performance!",
+      "comment": "",
+      "translation": "הפעל VT כדי להאיץ את הביצועים של Nox פי 10!"
+    },
+    {
+      "id": 800,
+      "context": "VTHelpDialog",
+      "source": "How to open VT?",
+      "comment": "",
+      "translation": "כיצד להפעיל VT?"
+    },
+    {
+      "id": 801,
+      "context": "VTHelpDialog",
+      "source": "Open",
+      "comment": "",
+      "translation": "פתח"
+    },
+    {
+      "id": 802,
+      "context": "VTHelpDialog",
+      "source": "Tip:  security software may affect the use, try to shut down the use of security software!",
+      "comment": "",
+      "translation": "הערה: תוכנת אנטי-וירוס עשויה להשפיע על הפעולה התקינה של Nox. אנא סגור את תוכנת האנטי-וירוס אם מופיעות בעיות."
+    },
+    {
+      "id": 803,
+      "context": "VTHelpDialog",
+      "source": "Whether to open VT？",
+      "comment": "",
+      "translation": "האם אתה בטוח שברצונך להפעיל מחדש את המחשב ולהפעיל VT?"
+    },
+    {
+      "id": 804,
+      "context": "VTHelpDialog",
+      "source": "Why to Enable VT?",
+      "comment": "",
+      "translation": "למה כדאי להפעיל VT?"
+    },
+    {
+      "id": 805,
+      "context": "VTMsgBox",
+      "source": "Do not prompt again",
+      "comment": "",
+      "translation": "אל תשאל שוב"
+    },
+    {
+      "id": 806,
+      "context": "VTMsgBox",
+      "source": "Performance optimization",
+      "comment": "",
+      "translation": "אופטימיזציית ביצועים"
+    },
+    {
+      "id": 807,
+      "context": "VTOptimizeDlg",
+      "source": "Nox running speed can be optimized, please immediately set up:",
+      "comment": "",
+      "translation": "ניתן לשפר את ביצועי NoxPlayer. ההגדרות הבאות מומלצות:"
+    },
+    {
+      "id": 808,
+      "context": "VTOptimizeDlg",
+      "source": "Open VT,better performance",
+      "comment": "",
+      "translation": "הפעל VT לשיפור ביצועים"
+    },
+    {
+      "id": 809,
+      "context": "VTOptimizeDlg",
+      "source": "Performance optimization",
+      "comment": "",
+      "translation": "אופטימיזציית ביצועים"
+    },
+    {
+      "id": 810,
+      "context": "VTOptimizeDlg",
+      "source": "Separate,better performance",
+      "comment": "",
+      "translation": "עבור לכרטיס מסך ייעודי לשיפור ביצועים"
+    },
+    {
+      "id": 811,
+      "context": "VTOptimizeDlg",
+      "source": "Separated",
+      "comment": "",
+      "translation": "כרטיס מסך ייעודי מופעל"
+    },
+    {
+      "id": 812,
+      "context": "VersionNeedUpdate",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 813,
+      "context": "VersionNeedUpdate",
+      "source": "Data protection operation is underway, avoid data damage,please close it later!",
+      "comment": "",
+      "translation": "שמירה מתבצעת. כדי למנוע השחתת נתונים, אנא צא מאוחר יותר."
+    },
+    {
+      "id": 814,
+      "context": "VersionNeedUpdate",
+      "source": "Ignore",
+      "comment": "",
+      "translation": "התעלם"
+    },
+    {
+      "id": 815,
+      "context": "VersionNeedUpdate",
+      "source": "New version update information not provide!",
+      "comment": "",
+      "translation": "לא סופק תוכן עדכון!"
+    },
+    {
+      "id": 816,
+      "context": "VersionNeedUpdate",
+      "source": "New version update information:",
+      "comment": "",
+      "translation": "עדכוני הגרסה החדשה:"
+    },
+    {
+      "id": 817,
+      "context": "VersionNeedUpdate",
+      "source": "Update",
+      "comment": "",
+      "translation": "בדוק עדכונים"
+    },
+    {
+      "id": 818,
+      "context": "VersionNeedUpdate",
+      "source": "Update Now",
+      "comment": "",
+      "translation": "עדכן כעת"
+    },
+    {
+      "id": 819,
+      "context": "VersionNeedUpdate",
+      "source": "Version number:",
+      "comment": "",
+      "translation": "מספר גרסה: "
+    },
+    {
+      "id": 820,
+      "context": "VersionUpdate",
+      "source": "Installing",
+      "comment": "",
+      "translation": "מתקין"
+    },
+    {
+      "id": 821,
+      "context": "VersionUpdate",
+      "source": "minimize to tray",
+      "comment": "",
+      "translation": "מזער למגש המערכת"
+    },
+    {
+      "id": 822,
+      "context": "VersionUpdateDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 823,
+      "context": "VersionUpdateDlg",
+      "source": "Download completed",
+      "comment": "",
+      "translation": "ההורדה הושלמה"
+    },
+    {
+      "id": 824,
+      "context": "VersionUpdateDlg",
+      "source": "Downloading updates…",
+      "comment": "",
+      "translation": "מוריד עדכונים…"
+    },
+    {
+      "id": 825,
+      "context": "VersionUpdateDlg",
+      "source": "Emulator update error, please try again",
+      "comment": "",
+      "translation": "שגיאת עדכון אמולטור, אנא נסה שוב"
+    },
+    {
+      "id": 826,
+      "context": "VersionUpdateDlg",
+      "source": "I know",
+      "comment": "",
+      "translation": "הבנתי"
+    },
+    {
+      "id": 827,
+      "context": "VersionUpdateDlg",
+      "source": "Ignore",
+      "comment": "",
+      "translation": "התעלם"
+    },
+    {
+      "id": 828,
+      "context": "VersionUpdateDlg",
+      "source": "Online update",
+      "comment": "",
+      "translation": "עדכון מקוון"
+    },
+    {
+      "id": 829,
+      "context": "VersionUpdateDlg",
+      "source": "Remind later",
+      "comment": "",
+      "translation": "הזכר לי מאוחר יותר"
+    },
+    {
+      "id": 830,
+      "context": "VersionUpdateDlg",
+      "source": "Restart and install",
+      "comment": "",
+      "translation": "הפעל מחדש והתקן"
+    },
+    {
+      "id": 831,
+      "context": "VersionUpdateDlg",
+      "source": "To download",
+      "comment": "",
+      "translation": "להורדה"
+    },
+    {
+      "id": 832,
+      "context": "VersionUpdateDlg",
+      "source": "Update now",
+      "comment": "",
+      "translation": "עדכן כעת"
+    },
+    {
+      "id": 833,
+      "context": "VersionUpdateDlg",
+      "source": "Waiting for update…",
+      "comment": "",
+      "translation": "ממתין לעדכון…"
+    },
+    {
+      "id": 834,
+      "context": "VideoRecorderDlg",
+      "source": "Cancel",
+      "comment": "",
+      "translation": "ביטול"
+    },
+    {
+      "id": 835,
+      "context": "VideoRecorderDlg",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 836,
+      "context": "VideoRecorderDlg",
+      "source": "Video Record",
+      "comment": "",
+      "translation": "מקליט וידאו"
+    },
+    {
+      "id": 837,
+      "context": "VisualAngleLockWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 838,
+      "context": "VisualAngleLockWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 839,
+      "context": "VisualAngleLockWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 840,
+      "context": "VisualAngleLockWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 841,
+      "context": "VisualAngleMoveWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 842,
+      "context": "VisualAngleMoveWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 843,
+      "context": "VisualAngleMoveWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 844,
+      "context": "VisualAngleMoveWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 845,
+      "context": "VisualAngleShootWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 846,
+      "context": "VisualAngleShootWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 847,
+      "context": "VisualAngleShootWidget",
+      "source": "Keyboard",
+      "comment": "",
+      "translation": "מקלדת"
+    },
+    {
+      "id": 848,
+      "context": "VisualAngleShootWidget",
+      "source": "Long press the key to control view with mouse",
+      "comment": "",
+      "translation": "לחיצה ארוכה על המקש לשליטה בזווית הראייה עם העכבר"
+    },
+    {
+      "id": 849,
+      "context": "VisualAngleShootWidget",
+      "source": "Mouse",
+      "comment": "",
+      "translation": "עכבר"
+    },
+    {
+      "id": 850,
+      "context": "VisualAngleShootWidget",
+      "source": "Mouse Sensitivity",
+      "comment": "",
+      "translation": "רגישות עכבר"
+    },
+    {
+      "id": 851,
+      "context": "VisualAngleShootWidget",
+      "source": "Mouse backward button",
+      "comment": "",
+      "translation": "לחצן עכבר אחורי"
+    },
+    {
+      "id": 852,
+      "context": "VisualAngleShootWidget",
+      "source": "Mouse forward button",
+      "comment": "",
+      "translation": "לחצן עכבר קדמי"
+    },
+    {
+      "id": 853,
+      "context": "VisualAngleShootWidget",
+      "source": "Right mouse button",
+      "comment": "",
+      "translation": "לחצן עכבר ימני"
+    },
+    {
+      "id": 854,
+      "context": "VisualAngleShootWidget",
+      "source": "Set a key",
+      "comment": "",
+      "translation": "הגדר מקש"
+    },
+    {
+      "id": 855,
+      "context": "VisualAngleWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 856,
+      "context": "VisualAngleWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 857,
+      "context": "VisualAngleWidget",
+      "source": "Keyboard",
+      "comment": "",
+      "translation": "מקלדת"
+    },
+    {
+      "id": 858,
+      "context": "VisualAngleWidget",
+      "source": "Mouse",
+      "comment": "",
+      "translation": "עכבר"
+    },
+    {
+      "id": 859,
+      "context": "VisualAngleWidget",
+      "source": "Mouse Sensitivity",
+      "comment": "",
+      "translation": "רגישות עכבר"
+    },
+    {
+      "id": 860,
+      "context": "VisualAngleWidget",
+      "source": "Press the key to control view",
+      "comment": "",
+      "translation": "לחץ על המקש לשליטה בזווית הראייה"
+    },
+    {
+      "id": 861,
+      "context": "WaitingDialog2",
+      "source": "Friendly remind: NOX is the best and safest Android Emulator",
+      "comment": "",
+      "translation": "Nox הוא אמולטור ה-Android הטוב והבטוח ביותר בשוק"
+    },
+    {
+      "id": 862,
+      "context": "ZoomWidget",
+      "source": "Delete",
+      "comment": "",
+      "translation": "מחיקה"
+    },
+    {
+      "id": 863,
+      "context": "ZoomWidget",
+      "source": "Key conflicts, enter again to delete the previous key",
+      "comment": "",
+      "translation": "התנגשות מקשים, הזן שוב כדי למחוק את המקש הקודם"
+    },
+    {
+      "id": 864,
+      "context": "ZoomWidget",
+      "source": "Settings",
+      "comment": "",
+      "translation": "הגדרות"
+    },
+    {
+      "id": 865,
+      "context": "ZoomWidget",
+      "source": "Zoom in/Zoom out",
+      "comment": "",
+      "translation": "התקרב/התרחק"
+    },
+    {
+      "id": 866,
+      "context": "firstCloseDlg",
+      "source": "Close Player",
+      "comment": "",
+      "translation": "סגור את האמולטור"
+    },
+    {
+      "id": 867,
+      "context": "firstCloseDlg",
+      "source": "FirstCloseDlg.CenterTop.TextLabel",
+      "comment": "",
+      "translation": "הדרכים הבאות יעזרו לך לחוות שימוש טוב יותר באמולטור"
+    },
+    {
+      "id": 868,
+      "context": "firstCloseDlg",
+      "source": "FirstCloseDlg.CenterTop.TitleLabel",
+      "comment": "",
+      "translation": "תודה על השימוש ב-NoxPlayer. אנו מעריכים מאוד את דעתך"
+    },
+    {
+      "id": 869,
+      "context": "firstCloseDlg",
+      "source": "FirstCloseDlg.CompatibilityProblem",
+      "comment": "",
+      "translation": "תאימות משחקים"
+    },
+    {
+      "id": 870,
+      "context": "firstCloseDlg",
+      "source": "FirstCloseDlg.GameProblem",
+      "comment": "",
+      "translation": "דווח על בעיה במשחק"
+    },
+    {
+      "id": 871,
+      "context": "firstCloseDlg",
+      "source": "FirstCloseDlg.MoreInfoProblem",
+      "comment": "",
+      "translation": "שאלות נוספות"
+    },
+    {
+      "id": 872,
+      "context": "firstCloseDlg",
+      "source": "FirstCloseDlg.MoreInfoProblem.Help",
+      "comment": "",
+      "translation": "צפה במדריכים נוספים לקבלת עזרה"
+    },
+    {
+      "id": 873,
+      "context": "firstCloseDlg",
+      "source": "FirstCloseDlg.SpeedUpLabel",
+      "comment": "",
+      "translation": "האץ את האמולטור"
+    },
+    {
+      "id": 874,
+      "context": "firstCloseDlg",
+      "source": "FirstCloseDlg.TurnUpVT",
+      "comment": "",
+      "translation": "הפעלת VT עשויה להאיץ עד 50%"
+    },
+    {
+      "id": 875,
+      "context": "firstCloseDlg",
+      "source": "FirstCloseDlg.title.label",
+      "comment": "",
+      "translation": "דרך טובה יותר להשתמש באמולטור"
+    }
+  ]
+}
